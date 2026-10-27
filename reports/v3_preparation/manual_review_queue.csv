@@ -1,0 +1,562 @@
+queue_id,split,image,object_index,source,reason,status
+diagnostic-001,train,waste-bin-fill-level-detect2_train_000735_b20786927a.jpg,3,best1_geometry_diagnostic,very_small_area;short_wide_box,pending
+diagnostic-002,train,waste-bin-fill-level-detect2_train_000734_25bad2d7e0.jpg,3,best1_geometry_diagnostic,very_small_area,pending
+diagnostic-003,train,waste-bin-fill-level-detect2_train_000734_25bad2d7e0.jpg,2,best1_geometry_diagnostic,very_small_area;short_wide_box,pending
+diagnostic-004,train,waste-bin-fill-level-detect2_train_000734_25bad2d7e0.jpg,1,best1_geometry_diagnostic,very_small_area;short_wide_box,pending
+diagnostic-005,train,waste-bin-fill-level-detect2_train_000735_b20786927a.jpg,1,best1_geometry_diagnostic,very_small_area;short_wide_box,pending
+diagnostic-006,train,waste-bin-fill-level-detect2_train_000735_b20786927a.jpg,2,best1_geometry_diagnostic,very_small_area;short_wide_box,pending
+diagnostic-007,train,waste-bin-fill-level-detect2_train_000736_075495afeb.jpg,3,best1_geometry_diagnostic,very_small_area;short_wide_box,pending
+diagnostic-008,train,waste-bin-fill-level-detect2_train_000680_1695b2e06b.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-009,train,waste-bin-fill-level-detect2_train_000677_7afc4ca9d4.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-010,train,waste-bin-fill-level-detect2_train_000736_075495afeb.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-011,train,waste-bin-fill-level-detect2_train_000736_075495afeb.jpg,2,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-012,train,waste-bin-fill-level-detect2_train_000676_e10f3f573e.jpg,2,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-013,train,waste-bin-fill-level-detect2_train_000661_f33554b3c7.jpg,1,best1_geometry_diagnostic,short_wide_box,reviewed
+diagnostic-014,train,garbage-can-overflow_train_000425_afbae73eba.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-015,train,waste-bin-fill-level-detect2_train_000676_e10f3f573e.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-016,train,waste-bin-fill-level-detect2_train_000720_65bc03fc7b.jpg,1,best1_geometry_diagnostic,short_wide_box,reviewed
+diagnostic-017,train,waste-bin-fill-level-detect2_train_000661_f33554b3c7.jpg,2,best1_geometry_diagnostic,short_wide_box,reviewed
+diagnostic-018,train,waste-bin-fill-level-detect2_train_000678_c5313b53f1.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-019,train,waste-bin-fill-level-detect2_train_000719_43b5bc9681.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-020,train,waste-bin-fill-level-detect2_train_000679_e60ae3df8b.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-021,train,waste-bin-fill-level-detect2_train_000681_a3b1819daa.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-022,train,waste-bin-fill-level-detect2_val_000858_5283b79f66.jpg,3,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-023,train,waste-bin-fill-level-detect2_test_000883_c4d501b6c7.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+diagnostic-024,train,waste-bin-fill-level-detect2_test_000885_d4cb47261f.jpg,1,best1_geometry_diagnostic,short_wide_box,pending
+auto-0001,train,garbage-can-overflow_test_000524_9da1a3ce69.jpg,1,automatic_geometry,near_image_border,pending
+auto-0002,train,garbage-can-overflow_test_000525_c3fb33b145.jpg,4,automatic_geometry,near_image_border,pending
+auto-0003,train,garbage-can-overflow_test_000527_9a4308764e.jpg,1,automatic_geometry,near_image_border,pending
+auto-0004,train,garbage-can-overflow_test_000531_a051a0c04b.jpg,1,automatic_geometry,near_image_border,pending
+auto-0005,train,garbage-can-overflow_test_000535_7bfe2cf0c8.jpg,1,automatic_geometry,near_image_border,pending
+auto-0006,train,garbage-can-overflow_test_000536_821d8e1796.jpg,2,automatic_geometry,near_image_border,pending
+auto-0007,train,garbage-can-overflow_test_000539_19aa3e58e8.jpg,2,automatic_geometry,near_image_border,pending
+auto-0008,train,garbage-can-overflow_test_000547_0950426b20.jpg,1,automatic_geometry,near_image_border,pending
+auto-0009,train,garbage-can-overflow_test_000551_4550f17a04.jpg,2,automatic_geometry,near_image_border,pending
+auto-0010,train,garbage-can-overflow_test_000552_f21247a773.jpg,2,automatic_geometry,near_image_border,pending
+auto-0011,train,garbage-can-overflow_test_000564_5be0de714d.jpg,2,automatic_geometry,near_image_border,pending
+auto-0012,train,garbage-can-overflow_test_000565_e1e7a022b3.jpg,2,automatic_geometry,near_image_border,pending
+auto-0013,train,garbage-can-overflow_test_000586_cb964d8360.jpg,2,automatic_geometry,near_image_border,pending
+auto-0014,train,garbage-can-overflow_test_000592_727dfc6bb4.jpg,2,automatic_geometry,near_image_border,pending
+auto-0015,train,garbage-can-overflow_test_000602_8a9e9fbd11.jpg,2,automatic_geometry,near_image_border,pending
+auto-0016,train,garbage-can-overflow_test_000604_d15587a2fd.jpg,2,automatic_geometry,near_image_border,pending
+auto-0017,train,garbage-can-overflow_test_000614_8b58c08e58.jpg,2,automatic_geometry,near_image_border,pending
+auto-0018,train,garbage-can-overflow_test_000626_9bd1ef0cae.jpg,2,automatic_geometry,near_image_border,pending
+auto-0019,train,garbage-can-overflow_test_000628_b0873094c2.jpg,2,automatic_geometry,near_image_border,pending
+auto-0020,train,garbage-can-overflow_test_000632_98800a2e9a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0021,train,garbage-can-overflow_test_000633_69d42970e9.jpg,2,automatic_geometry,near_image_border,pending
+auto-0022,train,garbage-can-overflow_test_000635_6c0691076a.jpg,1,automatic_geometry,near_image_border,pending
+auto-0023,train,garbage-can-overflow_test_000637_fcf987f013.jpg,1,automatic_geometry,near_image_border,pending
+auto-0024,train,garbage-can-overflow_test_000642_bac974a66c.jpg,2,automatic_geometry,near_image_border,pending
+auto-0025,train,garbage-can-overflow_test_000647_9804aac673.jpg,1,automatic_geometry,near_image_border,pending
+auto-0026,train,garbage-can-overflow_test_000647_9804aac673.jpg,2,automatic_geometry,near_image_border,pending
+auto-0027,train,garbage-can-overflow_test_000648_663e04d7fa.jpg,1,automatic_geometry,near_image_border,pending
+auto-0028,train,garbage-can-overflow_test_000651_4b4d527a16.jpg,1,automatic_geometry,near_image_border,pending
+auto-0029,train,garbage-can-overflow_test_000652_9ea800f57f.jpg,1,automatic_geometry,near_image_border,pending
+auto-0030,train,garbage-can-overflow_test_000654_d719442093.jpg,1,automatic_geometry,near_image_border,pending
+auto-0031,train,garbage-can-overflow_test_000660_2381559e18.jpg,1,automatic_geometry,near_image_border,pending
+auto-0032,train,garbage-can-overflow_train_000003_3233c566d0.jpg,1,automatic_geometry,near_image_border,pending
+auto-0033,train,garbage-can-overflow_train_000003_3233c566d0.jpg,2,automatic_geometry,near_image_border,pending
+auto-0034,train,garbage-can-overflow_train_000009_85353cb50c.jpg,1,automatic_geometry,near_image_border,pending
+auto-0035,train,garbage-can-overflow_train_000010_dedfc31d4d.jpg,1,automatic_geometry,near_image_border,pending
+auto-0036,train,garbage-can-overflow_train_000010_dedfc31d4d.jpg,2,automatic_geometry,near_image_border,pending
+auto-0037,train,garbage-can-overflow_train_000016_75a5596974.jpg,1,automatic_geometry,near_image_border,pending
+auto-0038,train,garbage-can-overflow_train_000016_75a5596974.jpg,2,automatic_geometry,near_image_border,pending
+auto-0039,train,garbage-can-overflow_train_000016_75a5596974.jpg,3,automatic_geometry,near_image_border,pending
+auto-0040,train,garbage-can-overflow_train_000020_872a811a07.jpg,5,automatic_geometry,near_image_border;unusual_aspect_ratio,reviewed
+auto-0041,train,garbage-can-overflow_train_000029_b919a6a533.jpg,1,automatic_geometry,unusual_aspect_ratio,reviewed
+auto-0042,train,garbage-can-overflow_train_000030_be76a693f5.jpg,1,automatic_geometry,near_image_border,pending
+auto-0043,train,garbage-can-overflow_train_000036_e05f6fd7b8.jpg,1,automatic_geometry,near_image_border,pending
+auto-0044,train,garbage-can-overflow_train_000036_e05f6fd7b8.jpg,2,automatic_geometry,unusual_aspect_ratio,pending
+auto-0045,train,garbage-can-overflow_train_000036_e05f6fd7b8.jpg,5,automatic_geometry,unusual_aspect_ratio,pending
+auto-0046,train,garbage-can-overflow_train_000041_a6d79172aa.jpg,1,automatic_geometry,near_image_border,pending
+auto-0047,train,garbage-can-overflow_train_000052_b57dd57f5c.jpg,1,automatic_geometry,near_image_border,pending
+auto-0048,train,garbage-can-overflow_train_000062_6d0782b2fe.jpg,1,automatic_geometry,near_image_border,pending
+auto-0049,train,garbage-can-overflow_train_000064_9adeeafc6b.jpg,2,automatic_geometry,near_image_border,pending
+auto-0050,train,garbage-can-overflow_train_000065_7cbbd70856.jpg,2,automatic_geometry,near_image_border,pending
+auto-0051,train,garbage-can-overflow_train_000066_7706f1a752.jpg,2,automatic_geometry,near_image_border,pending
+auto-0052,train,garbage-can-overflow_train_000077_69e2a72818.jpg,2,automatic_geometry,near_image_border,pending
+auto-0053,train,garbage-can-overflow_train_000087_c16a681788.jpg,2,automatic_geometry,near_image_border,pending
+auto-0054,train,garbage-can-overflow_train_000092_7f1c6a1bb1.jpg,1,automatic_geometry,near_image_border,reviewed
+auto-0055,train,garbage-can-overflow_train_000104_2335cbf5ba.jpg,1,automatic_geometry,near_image_border,pending
+auto-0056,train,garbage-can-overflow_train_000106_2166199331.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0057,train,garbage-can-overflow_train_000114_57860e465e.jpg,2,automatic_geometry,near_image_border,pending
+auto-0058,train,garbage-can-overflow_train_000119_3cac96a26a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0059,train,garbage-can-overflow_train_000122_279113b0aa.jpg,2,automatic_geometry,near_image_border,pending
+auto-0060,train,garbage-can-overflow_train_000123_5e19c0a927.jpg,2,automatic_geometry,near_image_border,pending
+auto-0061,train,garbage-can-overflow_train_000125_a130a86e72.jpg,2,automatic_geometry,near_image_border,pending
+auto-0062,train,garbage-can-overflow_train_000140_2d6467a54f.jpg,2,automatic_geometry,near_image_border,pending
+auto-0063,train,garbage-can-overflow_train_000142_5bc78d7fe6.jpg,1,automatic_geometry,near_image_border,reviewed
+auto-0064,train,garbage-can-overflow_train_000143_11f9eddffb.jpg,2,automatic_geometry,near_image_border,pending
+auto-0065,train,garbage-can-overflow_train_000146_363cd2708b.jpg,2,automatic_geometry,near_image_border,pending
+auto-0066,train,garbage-can-overflow_train_000158_44becfb4e5.jpg,3,automatic_geometry,near_image_border,pending
+auto-0067,train,garbage-can-overflow_train_000161_b9fe998231.jpg,1,automatic_geometry,near_image_border,pending
+auto-0068,train,garbage-can-overflow_train_000162_7ff8f0cbeb.jpg,2,automatic_geometry,near_image_border,pending
+auto-0069,train,garbage-can-overflow_train_000165_09e8a79ab1.jpg,2,automatic_geometry,near_image_border,pending
+auto-0070,train,garbage-can-overflow_train_000166_7dd0577710.jpg,2,automatic_geometry,near_image_border,pending
+auto-0071,train,garbage-can-overflow_train_000167_4c62eb57f9.jpg,2,automatic_geometry,near_image_border,pending
+auto-0072,train,garbage-can-overflow_train_000168_055fb75590.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0073,train,garbage-can-overflow_train_000179_4da74e16d9.jpg,2,automatic_geometry,near_image_border,pending
+auto-0074,train,garbage-can-overflow_train_000180_1fe3a68b7d.jpg,7,automatic_geometry,near_image_border,reviewed
+auto-0075,train,garbage-can-overflow_train_000189_27993b5df0.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0076,train,garbage-can-overflow_train_000205_60925e69e9.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0077,train,garbage-can-overflow_train_000206_2630201d18.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0078,train,garbage-can-overflow_train_000220_4fb3ca21f3.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0079,train,garbage-can-overflow_train_000232_da2c4e89ac.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0080,train,garbage-can-overflow_train_000234_d55b38e91d.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0081,train,garbage-can-overflow_train_000253_2f3a646a4e.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0082,train,garbage-can-overflow_train_000282_97ab14ccba.jpg,2,automatic_geometry,near_image_border,reviewed
+auto-0083,train,garbage-can-overflow_train_000288_fc940447ef.jpg,1,automatic_geometry,near_image_border,reviewed
+auto-0084,train,garbage-can-overflow_train_000299_94a121654c.jpg,2,automatic_geometry,near_image_border,pending
+auto-0085,train,garbage-can-overflow_train_000300_fbbcc24590.jpg,2,automatic_geometry,near_image_border,pending
+auto-0086,train,garbage-can-overflow_train_000301_9bcd370305.jpg,2,automatic_geometry,near_image_border,pending
+auto-0087,train,garbage-can-overflow_train_000304_b56037141e.jpg,2,automatic_geometry,near_image_border,pending
+auto-0088,train,garbage-can-overflow_train_000305_f35d1bac8f.jpg,2,automatic_geometry,near_image_border,pending
+auto-0089,train,garbage-can-overflow_train_000306_c358ff9b57.jpg,2,automatic_geometry,near_image_border,pending
+auto-0090,train,garbage-can-overflow_train_000307_c2be2051e8.jpg,2,automatic_geometry,near_image_border,pending
+auto-0091,train,garbage-can-overflow_train_000326_3c79872e23.jpg,2,automatic_geometry,near_image_border,pending
+auto-0092,train,garbage-can-overflow_train_000327_6b1e4d0395.jpg,3,automatic_geometry,near_image_border,pending
+auto-0093,train,garbage-can-overflow_train_000331_858546f144.jpg,2,automatic_geometry,near_image_border,pending
+auto-0094,train,garbage-can-overflow_train_000333_93d4c9497a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0095,train,garbage-can-overflow_train_000342_6137eb5261.jpg,1,automatic_geometry,near_image_border,pending
+auto-0096,train,garbage-can-overflow_train_000345_a99ad125f2.jpg,1,automatic_geometry,near_image_border,pending
+auto-0097,train,garbage-can-overflow_train_000347_ed7dc0fe60.jpg,1,automatic_geometry,near_image_border,pending
+auto-0098,train,garbage-can-overflow_train_000355_29c861a71b.jpg,2,automatic_geometry,near_image_border,pending
+auto-0099,train,garbage-can-overflow_train_000358_f88dd91e76.jpg,1,automatic_geometry,near_image_border,pending
+auto-0100,train,garbage-can-overflow_train_000362_a8b0c2465d.jpg,1,automatic_geometry,near_image_border,pending
+auto-0101,train,garbage-can-overflow_train_000372_4090469efe.jpg,2,automatic_geometry,near_image_border,pending
+auto-0102,train,garbage-can-overflow_train_000389_21c93e4939.jpg,2,automatic_geometry,near_image_border,pending
+auto-0103,train,garbage-can-overflow_train_000395_ee084bdafc.jpg,2,automatic_geometry,near_image_border,pending
+auto-0104,train,garbage-can-overflow_train_000398_caa06081ac.jpg,2,automatic_geometry,near_image_border,pending
+auto-0105,train,garbage-can-overflow_train_000398_caa06081ac.jpg,5,automatic_geometry,near_image_border,pending
+auto-0106,train,garbage-can-overflow_train_000400_a7d9ae3ef9.jpg,2,automatic_geometry,near_image_border,pending
+auto-0107,train,garbage-can-overflow_train_000408_cc055f22fc.jpg,2,automatic_geometry,near_image_border,pending
+auto-0108,train,garbage-can-overflow_train_000410_27038dd650.jpg,2,automatic_geometry,near_image_border,pending
+auto-0109,train,garbage-can-overflow_train_000416_7fb3730c06.jpg,1,automatic_geometry,near_image_border,pending
+auto-0110,train,garbage-can-overflow_train_000416_7fb3730c06.jpg,4,automatic_geometry,near_image_border,pending
+auto-0111,train,garbage-can-overflow_train_000418_d9101009b3.jpg,1,automatic_geometry,near_image_border,pending
+auto-0112,train,garbage-can-overflow_train_000422_8976667c34.jpg,1,automatic_geometry,near_image_border,pending
+auto-0113,train,garbage-can-overflow_train_000425_afbae73eba.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0114,train,garbage-can-overflow_train_000425_afbae73eba.jpg,2,automatic_geometry,near_image_border,pending
+auto-0115,train,garbage-can-overflow_train_000425_afbae73eba.jpg,3,automatic_geometry,near_image_border,pending
+auto-0116,train,garbage-can-overflow_train_000430_c9d2d1ee1f.jpg,1,automatic_geometry,near_image_border,pending
+auto-0117,train,garbage-can-overflow_train_000431_e1ba1ccad7.jpg,1,automatic_geometry,near_image_border,pending
+auto-0118,train,garbage-can-overflow_train_000432_3509945a2f.jpg,1,automatic_geometry,near_image_border,pending
+auto-0119,train,garbage-can-overflow_train_000439_51c0e4d599.jpg,1,automatic_geometry,near_image_border,pending
+auto-0120,train,garbage-can-overflow_train_000445_12afa3057b.jpg,1,automatic_geometry,near_image_border,pending
+auto-0121,train,garbage-can-overflow_val_000449_0bff39111b.jpg,2,automatic_geometry,near_image_border,pending
+auto-0122,train,garbage-can-overflow_val_000450_1319ae3f61.jpg,1,automatic_geometry,near_image_border,pending
+auto-0123,train,garbage-can-overflow_val_000452_4b05776ad3.jpg,1,automatic_geometry,near_image_border,pending
+auto-0124,train,garbage-can-overflow_val_000467_3af26ab6d6.jpg,2,automatic_geometry,near_image_border,pending
+auto-0125,train,garbage-can-overflow_val_000469_75671445a7.jpg,2,automatic_geometry,near_image_border,pending
+auto-0126,train,garbage-can-overflow_val_000470_372e6fadcb.jpg,2,automatic_geometry,near_image_border,pending
+auto-0127,train,garbage-can-overflow_val_000476_9fd1e4631e.jpg,2,automatic_geometry,near_image_border,pending
+auto-0128,train,garbage-can-overflow_val_000480_82c07ec700.jpg,2,automatic_geometry,near_image_border,pending
+auto-0129,train,garbage-can-overflow_val_000482_6396cfd37d.jpg,2,automatic_geometry,near_image_border,pending
+auto-0130,train,garbage-can-overflow_val_000504_3acf5abcd9.jpg,1,automatic_geometry,near_image_border,pending
+auto-0131,train,garbage-can-overflow_val_000506_4fcb9f6ff6.jpg,1,automatic_geometry,near_image_border,pending
+auto-0132,train,garbage-can-overflow_val_000511_4605d80afc.jpg,2,automatic_geometry,near_image_border,pending
+auto-0133,train,garbage-can-overflow_val_000517_6dd59d0925.jpg,1,automatic_geometry,near_image_border,pending
+auto-0134,train,garbage-can-overflow_val_000522_782abfd1e6.jpg,2,automatic_geometry,near_image_border,pending
+auto-0135,train,waste-bin-fill-level-detect2_test_000880_b173e34f8e.jpg,1,automatic_geometry,near_image_border,pending
+auto-0136,train,waste-bin-fill-level-detect2_test_000882_4de64f34ae.jpg,1,automatic_geometry,near_image_border,pending
+auto-0137,train,waste-bin-fill-level-detect2_test_000883_c4d501b6c7.jpg,1,automatic_geometry,near_image_border;short_wide_top_fragment,pending
+auto-0138,train,waste-bin-fill-level-detect2_test_000884_d15f372abd.jpg,1,automatic_geometry,near_image_border,pending
+auto-0139,train,waste-bin-fill-level-detect2_test_000885_d4cb47261f.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0140,train,waste-bin-fill-level-detect2_test_000887_d88666af22.jpg,2,automatic_geometry,near_image_border,pending
+auto-0141,train,waste-bin-fill-level-detect2_test_000888_c1936ba20f.jpg,1,automatic_geometry,near_image_border,pending
+auto-0142,train,waste-bin-fill-level-detect2_test_000896_2e351ba09d.jpg,2,automatic_geometry,near_image_border,pending
+auto-0143,train,waste-bin-fill-level-detect2_train_000661_f33554b3c7.jpg,1,automatic_geometry,short_wide_top_fragment,reviewed
+auto-0144,train,waste-bin-fill-level-detect2_train_000661_f33554b3c7.jpg,2,automatic_geometry,short_wide_top_fragment,reviewed
+auto-0145,train,waste-bin-fill-level-detect2_train_000664_b5b2e3af6e.jpg,2,automatic_geometry,near_image_border,pending
+auto-0146,train,waste-bin-fill-level-detect2_train_000665_ec10644779.jpg,1,automatic_geometry,near_image_border,pending
+auto-0147,train,waste-bin-fill-level-detect2_train_000668_66528e020c.jpg,1,automatic_geometry,near_image_border,pending
+auto-0148,train,waste-bin-fill-level-detect2_train_000669_f90129941b.jpg,1,automatic_geometry,near_image_border,pending
+auto-0149,train,waste-bin-fill-level-detect2_train_000670_349a681239.jpg,2,automatic_geometry,near_image_border;unusual_aspect_ratio,pending
+auto-0150,train,waste-bin-fill-level-detect2_train_000670_349a681239.jpg,3,automatic_geometry,unusual_aspect_ratio,pending
+auto-0151,train,waste-bin-fill-level-detect2_train_000673_84d4b3bf1d.jpg,1,automatic_geometry,near_image_border,pending
+auto-0152,train,waste-bin-fill-level-detect2_train_000676_e10f3f573e.jpg,1,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0153,train,waste-bin-fill-level-detect2_train_000676_e10f3f573e.jpg,2,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0154,train,waste-bin-fill-level-detect2_train_000677_7afc4ca9d4.jpg,1,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0155,train,waste-bin-fill-level-detect2_train_000678_c5313b53f1.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0156,train,waste-bin-fill-level-detect2_train_000679_e60ae3df8b.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0157,train,waste-bin-fill-level-detect2_train_000680_1695b2e06b.jpg,1,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0158,train,waste-bin-fill-level-detect2_train_000681_a3b1819daa.jpg,1,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0159,train,waste-bin-fill-level-detect2_train_000684_6e71c4147d.jpg,1,automatic_geometry,near_image_border,pending
+auto-0160,train,waste-bin-fill-level-detect2_train_000684_6e71c4147d.jpg,2,automatic_geometry,near_image_border,pending
+auto-0161,train,waste-bin-fill-level-detect2_train_000691_3012a8f6ea.jpg,1,automatic_geometry,near_image_border,pending
+auto-0162,train,waste-bin-fill-level-detect2_train_000692_7606a91611.jpg,1,automatic_geometry,near_image_border,pending
+auto-0163,train,waste-bin-fill-level-detect2_train_000694_9ae8e52d31.jpg,2,automatic_geometry,near_image_border,pending
+auto-0164,train,waste-bin-fill-level-detect2_train_000695_0f531965c2.jpg,1,automatic_geometry,near_image_border,pending
+auto-0165,train,waste-bin-fill-level-detect2_train_000696_dfd506db61.jpg,1,automatic_geometry,near_image_border,pending
+auto-0166,train,waste-bin-fill-level-detect2_train_000699_a8f3d88946.jpg,1,automatic_geometry,near_image_border,pending
+auto-0167,train,waste-bin-fill-level-detect2_train_000700_1f73dac98c.jpg,1,automatic_geometry,near_image_border,pending
+auto-0168,train,waste-bin-fill-level-detect2_train_000701_c3f6c5efee.jpg,1,automatic_geometry,near_image_border,pending
+auto-0169,train,waste-bin-fill-level-detect2_train_000703_081dc7862e.jpg,1,automatic_geometry,near_image_border,pending
+auto-0170,train,waste-bin-fill-level-detect2_train_000705_35c130e99c.jpg,1,automatic_geometry,near_image_border,pending
+auto-0171,train,waste-bin-fill-level-detect2_train_000706_8bd59e8a09.jpg,1,automatic_geometry,near_image_border,pending
+auto-0172,train,waste-bin-fill-level-detect2_train_000706_8bd59e8a09.jpg,2,automatic_geometry,near_image_border;unusual_aspect_ratio,pending
+auto-0173,train,waste-bin-fill-level-detect2_train_000707_12673a8a83.jpg,1,automatic_geometry,near_image_border,pending
+auto-0174,train,waste-bin-fill-level-detect2_train_000707_12673a8a83.jpg,2,automatic_geometry,near_image_border,pending
+auto-0175,train,waste-bin-fill-level-detect2_train_000709_4f618e2fcf.jpg,1,automatic_geometry,near_image_border,pending
+auto-0176,train,waste-bin-fill-level-detect2_train_000713_6fc411a494.jpg,1,automatic_geometry,near_image_border,pending
+auto-0177,train,waste-bin-fill-level-detect2_train_000713_6fc411a494.jpg,2,automatic_geometry,near_image_border;unusual_aspect_ratio,pending
+auto-0178,train,waste-bin-fill-level-detect2_train_000715_22e1c9d307.jpg,1,automatic_geometry,near_image_border,pending
+auto-0179,train,waste-bin-fill-level-detect2_train_000715_22e1c9d307.jpg,2,automatic_geometry,near_image_border;unusual_aspect_ratio,pending
+auto-0180,train,waste-bin-fill-level-detect2_train_000718_7a7c9c132d.jpg,1,automatic_geometry,near_image_border,pending
+auto-0181,train,waste-bin-fill-level-detect2_train_000719_43b5bc9681.jpg,1,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0182,train,waste-bin-fill-level-detect2_train_000720_65bc03fc7b.jpg,1,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,reviewed
+auto-0183,train,waste-bin-fill-level-detect2_train_000721_cc413bc235.jpg,2,automatic_geometry,near_image_border;unusual_aspect_ratio,pending
+auto-0184,train,waste-bin-fill-level-detect2_train_000722_435672be90.jpg,1,automatic_geometry,near_image_border,pending
+auto-0185,train,waste-bin-fill-level-detect2_train_000725_d1932e4e77.jpg,1,automatic_geometry,near_image_border,pending
+auto-0186,train,waste-bin-fill-level-detect2_train_000730_0b0596df70.jpg,1,automatic_geometry,near_image_border,pending
+auto-0187,train,waste-bin-fill-level-detect2_train_000734_25bad2d7e0.jpg,1,automatic_geometry,short_wide_top_fragment;small_area,pending
+auto-0188,train,waste-bin-fill-level-detect2_train_000734_25bad2d7e0.jpg,2,automatic_geometry,short_wide_top_fragment;small_area,pending
+auto-0189,train,waste-bin-fill-level-detect2_train_000734_25bad2d7e0.jpg,3,automatic_geometry,small_area,pending
+auto-0190,train,waste-bin-fill-level-detect2_train_000735_b20786927a.jpg,1,automatic_geometry,short_wide_top_fragment;small_area,pending
+auto-0191,train,waste-bin-fill-level-detect2_train_000735_b20786927a.jpg,2,automatic_geometry,short_wide_top_fragment;small_area,pending
+auto-0192,train,waste-bin-fill-level-detect2_train_000735_b20786927a.jpg,3,automatic_geometry,short_wide_top_fragment;small_area,pending
+auto-0193,train,waste-bin-fill-level-detect2_train_000736_075495afeb.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0194,train,waste-bin-fill-level-detect2_train_000736_075495afeb.jpg,2,automatic_geometry,short_wide_top_fragment,pending
+auto-0195,train,waste-bin-fill-level-detect2_train_000736_075495afeb.jpg,3,automatic_geometry,short_wide_top_fragment;small_area,pending
+auto-0196,train,waste-bin-fill-level-detect2_train_000740_5076788827.jpg,2,automatic_geometry,near_image_border,pending
+auto-0197,train,waste-bin-fill-level-detect2_train_000748_989993592e.jpg,2,automatic_geometry,near_image_border,pending
+auto-0198,train,waste-bin-fill-level-detect2_train_000749_9d1be9387a.jpg,1,automatic_geometry,near_image_border,pending
+auto-0199,train,waste-bin-fill-level-detect2_train_000758_21508dd5d5.jpg,2,automatic_geometry,near_image_border,pending
+auto-0200,train,waste-bin-fill-level-detect2_train_000760_685a7537d7.jpg,1,automatic_geometry,near_image_border,pending
+auto-0201,train,waste-bin-fill-level-detect2_train_000760_685a7537d7.jpg,2,automatic_geometry,near_image_border,pending
+auto-0202,train,waste-bin-fill-level-detect2_train_000762_63492f9534.jpg,1,automatic_geometry,near_image_border,pending
+auto-0203,train,waste-bin-fill-level-detect2_train_000770_0086f55ce4.jpg,1,automatic_geometry,near_image_border,pending
+auto-0204,train,waste-bin-fill-level-detect2_train_000772_6597aa95ec.jpg,3,automatic_geometry,near_image_border;unusual_aspect_ratio,pending
+auto-0205,train,waste-bin-fill-level-detect2_train_000773_268e06b220.jpg,2,automatic_geometry,near_image_border;unusual_aspect_ratio,pending
+auto-0206,train,waste-bin-fill-level-detect2_train_000776_a273107647.jpg,1,automatic_geometry,near_image_border,pending
+auto-0207,train,waste-bin-fill-level-detect2_train_000785_b46610b461.jpg,1,automatic_geometry,near_image_border,pending
+auto-0208,train,waste-bin-fill-level-detect2_train_000786_01431fbbde.jpg,1,automatic_geometry,near_image_border,pending
+auto-0209,train,waste-bin-fill-level-detect2_train_000795_0df4554831.jpg,1,automatic_geometry,near_image_border,pending
+auto-0210,train,waste-bin-fill-level-detect2_train_000800_ec4b54597b.jpg,2,automatic_geometry,near_image_border,pending
+auto-0211,train,waste-bin-fill-level-detect2_train_000810_923c409628.jpg,2,automatic_geometry,near_image_border,pending
+auto-0212,train,waste-bin-fill-level-detect2_train_000820_f357a5b95c.jpg,1,automatic_geometry,near_image_border,pending
+auto-0213,train,waste-bin-fill-level-detect2_train_000828_e4671ae47d.jpg,1,automatic_geometry,near_image_border,pending
+auto-0214,train,waste-bin-fill-level-detect2_train_000829_4e9dc50af0.jpg,1,automatic_geometry,near_image_border,pending
+auto-0215,train,waste-bin-fill-level-detect2_val_000833_98065ed94d.jpg,2,automatic_geometry,unusual_aspect_ratio,pending
+auto-0216,train,waste-bin-fill-level-detect2_val_000840_e36ee17c2d.jpg,1,automatic_geometry,near_image_border,pending
+auto-0217,train,waste-bin-fill-level-detect2_val_000841_7c5eb6b7c4.jpg,1,automatic_geometry,near_image_border,pending
+auto-0218,train,waste-bin-fill-level-detect2_val_000842_2c6f2c2cec.jpg,1,automatic_geometry,near_image_border,pending
+auto-0219,train,waste-bin-fill-level-detect2_val_000843_6dd4f14073.jpg,2,automatic_geometry,near_image_border,pending
+auto-0220,train,waste-bin-fill-level-detect2_val_000846_27cc4afab7.jpg,1,automatic_geometry,near_image_border,pending
+auto-0221,train,waste-bin-fill-level-detect2_val_000857_537cb19772.jpg,1,automatic_geometry,near_image_border,pending
+auto-0222,train,waste-bin-fill-level-detect2_val_000858_5283b79f66.jpg,3,automatic_geometry,near_image_border;short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0223,train,waste-bin-fill-level-detect2_val_000859_a9d5cfce33.jpg,2,automatic_geometry,near_image_border,pending
+auto-0224,train,waste-bin-fill-level-detect2_val_000860_f2249b6906.jpg,1,automatic_geometry,near_image_border,pending
+auto-0225,train,waste-bin-fill-level-detect2_val_000869_62366bf466.jpg,2,automatic_geometry,near_image_border,pending
+auto-0226,train,waste-bin-fill-level-detect2_val_000870_3cebf461a3.jpg,2,automatic_geometry,near_image_border,pending
+auto-0227,train,waste-bin-fill-level-detect2_val_000876_cbc1ef3cbc.jpg,1,automatic_geometry,near_image_border,pending
+auto-0228,val,garbage-can-overflow_test_000560_b6b97acfd5.jpg,2,automatic_geometry,near_image_border,pending
+auto-0229,val,garbage-can-overflow_test_000561_472740c379.jpg,2,automatic_geometry,near_image_border,pending
+auto-0230,val,garbage-can-overflow_test_000576_66b09b582f.jpg,2,automatic_geometry,near_image_border,pending
+auto-0231,val,garbage-can-overflow_test_000577_0089a63827.jpg,2,automatic_geometry,near_image_border,pending
+auto-0232,val,garbage-can-overflow_test_000587_066f491f9a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0233,val,garbage-can-overflow_test_000603_d525e65ef3.jpg,1,automatic_geometry,small_area,pending
+auto-0234,val,garbage-can-overflow_test_000630_00811f7e44.jpg,2,automatic_geometry,near_image_border,pending
+auto-0235,val,garbage-can-overflow_test_000631_7ffec23bbd.jpg,2,automatic_geometry,near_image_border,pending
+auto-0236,val,garbage-can-overflow_test_000641_288ed8989d.jpg,2,automatic_geometry,near_image_border,pending
+auto-0237,val,garbage-can-overflow_test_000644_ff45a3591a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0238,val,garbage-can-overflow_test_000649_3d27c634d4.jpg,1,automatic_geometry,near_image_border,pending
+auto-0239,val,garbage-can-overflow_test_000655_98c012e601.jpg,1,automatic_geometry,near_image_border,pending
+auto-0240,val,garbage-can-overflow_test_000655_98c012e601.jpg,2,automatic_geometry,near_image_border,pending
+auto-0241,val,garbage-can-overflow_train_000005_1bac7017ae.jpg,1,automatic_geometry,near_image_border,pending
+auto-0242,val,garbage-can-overflow_train_000018_9780e97a3b.jpg,1,automatic_geometry,near_image_border,pending
+auto-0243,val,garbage-can-overflow_train_000050_5272774f77.jpg,1,automatic_geometry,near_image_border,pending
+auto-0244,val,garbage-can-overflow_train_000050_5272774f77.jpg,2,automatic_geometry,unusual_aspect_ratio,pending
+auto-0245,val,garbage-can-overflow_train_000050_5272774f77.jpg,3,automatic_geometry,unusual_aspect_ratio,pending
+auto-0246,val,garbage-can-overflow_train_000050_5272774f77.jpg,4,automatic_geometry,unusual_aspect_ratio,pending
+auto-0247,val,garbage-can-overflow_train_000050_5272774f77.jpg,5,automatic_geometry,unusual_aspect_ratio,pending
+auto-0248,val,garbage-can-overflow_train_000082_49f5885311.jpg,2,automatic_geometry,near_image_border,pending
+auto-0249,val,garbage-can-overflow_train_000257_e52d201bcd.jpg,2,automatic_geometry,near_image_border,pending
+auto-0250,val,garbage-can-overflow_train_000310_3de16d50f4.jpg,2,automatic_geometry,near_image_border,pending
+auto-0251,val,garbage-can-overflow_train_000323_1ca0f19b94.jpg,2,automatic_geometry,near_image_border,pending
+auto-0252,val,garbage-can-overflow_train_000386_a10a28b4c2.jpg,2,automatic_geometry,near_image_border,pending
+auto-0253,val,garbage-can-overflow_train_000401_3fe9a11e37.jpg,2,automatic_geometry,near_image_border,pending
+auto-0254,val,garbage-can-overflow_train_000413_1a6582c62a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0255,val,garbage-can-overflow_train_000426_0449cb7e23.jpg,1,automatic_geometry,near_image_border,pending
+auto-0256,val,garbage-can-overflow_train_000426_0449cb7e23.jpg,2,automatic_geometry,near_image_border,pending
+auto-0257,val,garbage-can-overflow_train_000434_46efc550d0.jpg,1,automatic_geometry,near_image_border,pending
+auto-0258,val,garbage-can-overflow_val_000466_62543f2034.jpg,2,automatic_geometry,near_image_border,pending
+auto-0259,val,waste-bin-fill-level-detect2_train_000662_5460da4267.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0260,val,waste-bin-fill-level-detect2_train_000662_5460da4267.jpg,2,automatic_geometry,short_wide_top_fragment,pending
+auto-0261,val,waste-bin-fill-level-detect2_train_000662_5460da4267.jpg,3,automatic_geometry,short_wide_top_fragment,pending
+auto-0262,val,waste-bin-fill-level-detect2_train_000663_efd1970b83.jpg,1,automatic_geometry,near_image_border,pending
+auto-0263,val,waste-bin-fill-level-detect2_train_000682_0c36b7d744.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0264,val,waste-bin-fill-level-detect2_train_000729_34ddb1f646.jpg,1,automatic_geometry,near_image_border,pending
+auto-0265,val,waste-bin-fill-level-detect2_train_000738_846fd8ac5c.jpg,2,automatic_geometry,near_image_border;short_wide_top_fragment,pending
+auto-0266,val,waste-bin-fill-level-detect2_train_000750_76d257dbb3.jpg,1,automatic_geometry,near_image_border,pending
+auto-0267,val,waste-bin-fill-level-detect2_train_000761_8037bcb45c.jpg,2,automatic_geometry,near_image_border,pending
+auto-0268,val,waste-bin-fill-level-detect2_train_000771_a183ad8839.jpg,2,automatic_geometry,near_image_border,pending
+auto-0269,val,waste-bin-fill-level-detect2_train_000787_5c00d92c23.jpg,2,automatic_geometry,near_image_border,pending
+auto-0270,val,waste-bin-fill-level-detect2_train_000801_4c682026aa.jpg,2,automatic_geometry,near_image_border;unusual_aspect_ratio,pending
+auto-0271,val,waste-bin-fill-level-detect2_train_000804_b1cfe79d5f.jpg,1,automatic_geometry,near_image_border,pending
+auto-0272,val,waste-bin-fill-level-detect2_train_000814_97d184cd60.jpg,1,automatic_geometry,near_image_border,pending
+auto-0273,val,waste-bin-fill-level-detect2_val_000837_5f5cce7040.jpg,1,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0274,val,waste-bin-fill-level-detect2_val_000837_5f5cce7040.jpg,2,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0275,val,waste-bin-fill-level-detect2_val_000837_5f5cce7040.jpg,3,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0276,val,waste-bin-fill-level-detect2_val_000838_19db25d50f.jpg,2,automatic_geometry,near_image_border,pending
+auto-0277,val,waste-bin-fill-level-detect2_val_000851_40f4466ce0.jpg,1,automatic_geometry,short_wide_top_fragment;small_area,pending
+auto-0278,test,garbage-can-overflow_test_000534_42dea66a2f.jpg,2,automatic_geometry,near_image_border,pending
+auto-0279,test,garbage-can-overflow_test_000548_118f7fefb2.jpg,2,automatic_geometry,near_image_border,pending
+auto-0280,test,garbage-can-overflow_test_000591_89352546bb.jpg,1,automatic_geometry,near_image_border,pending
+auto-0281,test,garbage-can-overflow_test_000629_95473aaf3d.jpg,2,automatic_geometry,near_image_border,pending
+auto-0282,test,garbage-can-overflow_test_000643_18b36a3029.jpg,2,automatic_geometry,near_image_border,pending
+auto-0283,test,garbage-can-overflow_test_000650_f65ccb5936.jpg,1,automatic_geometry,near_image_border,pending
+auto-0284,test,garbage-can-overflow_train_000007_aa3ae299fb.jpg,1,automatic_geometry,near_image_border,pending
+auto-0285,test,garbage-can-overflow_train_000042_7f864096a7.jpg,5,automatic_geometry,unusual_aspect_ratio,pending
+auto-0286,test,garbage-can-overflow_train_000138_65a3476ad2.jpg,2,automatic_geometry,near_image_border,pending
+auto-0287,test,garbage-can-overflow_train_000159_6e42540a62.jpg,2,automatic_geometry,near_image_border,pending
+auto-0288,test,garbage-can-overflow_train_000170_55832530f0.jpg,2,automatic_geometry,near_image_border,pending
+auto-0289,test,garbage-can-overflow_train_000279_f19555646d.jpg,1,automatic_geometry,near_image_border,pending
+auto-0290,test,garbage-can-overflow_train_000283_ab5113129b.jpg,2,automatic_geometry,near_image_border,pending
+auto-0291,test,garbage-can-overflow_train_000298_43301219b9.jpg,2,automatic_geometry,near_image_border,pending
+auto-0292,test,garbage-can-overflow_train_000360_d3e0798684.jpg,1,automatic_geometry,near_image_border,pending
+auto-0293,test,garbage-can-overflow_train_000370_5b65762c73.jpg,1,automatic_geometry,near_image_border,pending
+auto-0294,test,garbage-can-overflow_train_000382_450a300a6b.jpg,2,automatic_geometry,near_image_border,pending
+auto-0295,test,garbage-can-overflow_train_000383_4bbf55c64a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0296,test,garbage-can-overflow_train_000402_97e6e97da3.jpg,1,automatic_geometry,near_image_border,pending
+auto-0297,test,garbage-can-overflow_train_000420_48165c94c1.jpg,1,automatic_geometry,near_image_border,pending
+auto-0298,test,garbage-can-overflow_train_000423_42d9e17dc3.jpg,1,automatic_geometry,near_image_border,pending
+auto-0299,test,garbage-can-overflow_train_000437_73f1947e89.jpg,1,automatic_geometry,near_image_border,pending
+auto-0300,test,garbage-can-overflow_val_000519_530bf2db23.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0301,test,waste-bin-fill-level-detect2_test_000878_d136337e0a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0302,test,waste-bin-fill-level-detect2_test_000881_4aee80ab1e.jpg,1,automatic_geometry,near_image_border,pending
+auto-0303,test,waste-bin-fill-level-detect2_train_000666_e3fde79cca.jpg,1,automatic_geometry,near_image_border,pending
+auto-0304,test,waste-bin-fill-level-detect2_train_000667_ef8c0d148e.jpg,1,automatic_geometry,near_image_border,pending
+auto-0305,test,waste-bin-fill-level-detect2_train_000702_71812695e9.jpg,1,automatic_geometry,near_image_border,pending
+auto-0306,test,waste-bin-fill-level-detect2_train_000704_7a4a1f0f7f.jpg,1,automatic_geometry,near_image_border,pending
+auto-0307,test,waste-bin-fill-level-detect2_train_000708_7656cdeb36.jpg,1,automatic_geometry,near_image_border,pending
+auto-0308,test,waste-bin-fill-level-detect2_train_000711_648ef51893.jpg,1,automatic_geometry,near_image_border,pending
+auto-0309,test,waste-bin-fill-level-detect2_train_000716_47d372f184.jpg,1,automatic_geometry,near_image_border,pending
+auto-0310,test,waste-bin-fill-level-detect2_train_000737_c6ce6ea4dc.jpg,1,automatic_geometry,near_image_border,pending
+auto-0311,test,waste-bin-fill-level-detect2_train_000737_c6ce6ea4dc.jpg,2,automatic_geometry,near_image_border,pending
+auto-0312,test,waste-bin-fill-level-detect2_train_000746_128d624b7a.jpg,1,automatic_geometry,near_image_border,pending
+auto-0313,test,waste-bin-fill-level-detect2_train_000746_128d624b7a.jpg,2,automatic_geometry,near_image_border,pending
+auto-0314,test,waste-bin-fill-level-detect2_train_000763_c2746a0b88.jpg,1,automatic_geometry,near_image_border,pending
+auto-0315,test,waste-bin-fill-level-detect2_train_000774_ccbdca8525.jpg,1,automatic_geometry,near_image_border,pending
+auto-0316,test,waste-bin-fill-level-detect2_train_000796_5430842df1.jpg,1,automatic_geometry,near_image_border,pending
+auto-0317,test,waste-bin-fill-level-detect2_train_000799_ae6aa368e5.jpg,2,automatic_geometry,unusual_aspect_ratio,pending
+auto-0318,test,waste-bin-fill-level-detect2_train_000803_4359866dc4.jpg,1,automatic_geometry,near_image_border,pending
+auto-0319,test,waste-bin-fill-level-detect2_train_000824_5d4636e031.jpg,1,automatic_geometry,near_image_border,pending
+auto-0320,test,waste-bin-fill-level-detect2_val_000831_0aa06c1d40.jpg,1,automatic_geometry,near_image_border,pending
+auto-0321,test,waste-bin-fill-level-detect2_val_000832_29293704e1.jpg,1,automatic_geometry,near_image_border,pending
+auto-0322,test,waste-bin-fill-level-detect2_val_000835_dc82ac4e92.jpg,2,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0323,test,waste-bin-fill-level-detect2_val_000835_dc82ac4e92.jpg,3,automatic_geometry,short_wide_top_fragment;unusual_aspect_ratio,pending
+auto-0324,test,waste-bin-fill-level-detect2_val_000850_9140b0155e.jpg,1,automatic_geometry,near_image_border,pending
+auto-0325,test,waste-bin-fill-level-detect2_val_000852_79389e8ec8.jpg,1,automatic_geometry,short_wide_top_fragment,pending
+auto-0326,test,waste-bin-fill-level-detect2_val_000852_79389e8ec8.jpg,2,automatic_geometry,short_wide_top_fragment,pending
+auto-0327,test,waste-bin-fill-level-detect2_val_000852_79389e8ec8.jpg,3,automatic_geometry,short_wide_top_fragment,pending
+missing-001,train,garbage-can-overflow_test_000537_0dbd38d8d2.jpg,,missing_objects,"Пропущена переполненная мусорка в нижней части кадра.
+Также пропущены другие видимые контейнеры.",pending
+lowcount-train-garbage-can-overflow_test_000523_d4e292f895,train,garbage-can-overflow_test_000523_d4e292f895.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000526_660452c75e,train,garbage-can-overflow_test_000526_660452c75e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000528_a51d29aa59,train,garbage-can-overflow_test_000528_a51d29aa59.jpg,,low_annotation_count,only_0_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000529_3dc070871d,train,garbage-can-overflow_test_000529_3dc070871d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000530_9cd3e7fff5,train,garbage-can-overflow_test_000530_9cd3e7fff5.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000605_ce05d39cad,train,garbage-can-overflow_test_000605_ce05d39cad.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000607_a8799e86c4,train,garbage-can-overflow_test_000607_a8799e86c4.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000608_82d1edfb74,train,garbage-can-overflow_test_000608_82d1edfb74.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000653_abd0d97eeb,train,garbage-can-overflow_test_000653_abd0d97eeb.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000656_0bad2700a5,train,garbage-can-overflow_test_000656_0bad2700a5.jpg,,low_annotation_count,only_0_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_test_000657_97b2d362ea,train,garbage-can-overflow_test_000657_97b2d362ea.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000001_0aa364bfa1,train,garbage-can-overflow_train_000001_0aa364bfa1.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000002_1af88f6603,train,garbage-can-overflow_train_000002_1af88f6603.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000004_f9b9fdedb2,train,garbage-can-overflow_train_000004_f9b9fdedb2.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000014_d62138c4b0,train,garbage-can-overflow_train_000014_d62138c4b0.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000024_dea08d1bf1,train,garbage-can-overflow_train_000024_dea08d1bf1.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000025_273d1dcbe8,train,garbage-can-overflow_train_000025_273d1dcbe8.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000026_e101d86500,train,garbage-can-overflow_train_000026_e101d86500.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000032_df7bedd7de,train,garbage-can-overflow_train_000032_df7bedd7de.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000033_0d5aa03c48,train,garbage-can-overflow_train_000033_0d5aa03c48.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000034_9636805b5d,train,garbage-can-overflow_train_000034_9636805b5d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000035_da395527ac,train,garbage-can-overflow_train_000035_da395527ac.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000043_62e8349640,train,garbage-can-overflow_train_000043_62e8349640.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000044_323786493f,train,garbage-can-overflow_train_000044_323786493f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000045_27acdb75e3,train,garbage-can-overflow_train_000045_27acdb75e3.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000046_31ae19b97a,train,garbage-can-overflow_train_000046_31ae19b97a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000047_e315d5812b,train,garbage-can-overflow_train_000047_e315d5812b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000053_35e4b45638,train,garbage-can-overflow_train_000053_35e4b45638.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000083_50af25ce83,train,garbage-can-overflow_train_000083_50af25ce83.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000182_a7172781f0,train,garbage-can-overflow_train_000182_a7172781f0.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000200_d0ba5a80ec,train,garbage-can-overflow_train_000200_d0ba5a80ec.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000266_023b691f02,train,garbage-can-overflow_train_000266_023b691f02.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000311_07f8ac14af,train,garbage-can-overflow_train_000311_07f8ac14af.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000313_cf6a193b9e,train,garbage-can-overflow_train_000313_cf6a193b9e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000334_b3d066173f,train,garbage-can-overflow_train_000334_b3d066173f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000335_707ed661e3,train,garbage-can-overflow_train_000335_707ed661e3.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000337_a2d56b80ef,train,garbage-can-overflow_train_000337_a2d56b80ef.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000338_beeec37deb,train,garbage-can-overflow_train_000338_beeec37deb.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000339_555ea2aa89,train,garbage-can-overflow_train_000339_555ea2aa89.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000340_2d6532f7d7,train,garbage-can-overflow_train_000340_2d6532f7d7.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000341_9018431e44,train,garbage-can-overflow_train_000341_9018431e44.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000343_d2d72afe1c,train,garbage-can-overflow_train_000343_d2d72afe1c.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000344_1fea98c50f,train,garbage-can-overflow_train_000344_1fea98c50f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000346_b24fff7249,train,garbage-can-overflow_train_000346_b24fff7249.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000348_dd68b248c1,train,garbage-can-overflow_train_000348_dd68b248c1.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000349_b5c15fecca,train,garbage-can-overflow_train_000349_b5c15fecca.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000353_7e20500dfb,train,garbage-can-overflow_train_000353_7e20500dfb.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000368_1e55f4c52b,train,garbage-can-overflow_train_000368_1e55f4c52b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000396_4f1563b673,train,garbage-can-overflow_train_000396_4f1563b673.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000414_fbece81f60,train,garbage-can-overflow_train_000414_fbece81f60.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000417_d487c310a8,train,garbage-can-overflow_train_000417_d487c310a8.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000421_d81fb8e1ee,train,garbage-can-overflow_train_000421_d81fb8e1ee.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000435_4fcbcaeb87,train,garbage-can-overflow_train_000435_4fcbcaeb87.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000436_c04a6e4682,train,garbage-can-overflow_train_000436_c04a6e4682.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000441_c3283da961,train,garbage-can-overflow_train_000441_c3283da961.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000442_f3ea5bb51d,train,garbage-can-overflow_train_000442_f3ea5bb51d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_train_000443_815caa5f38,train,garbage-can-overflow_train_000443_815caa5f38.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_val_000451_022ae78f23,train,garbage-can-overflow_val_000451_022ae78f23.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_val_000486_5f97ed2f81,train,garbage-can-overflow_val_000486_5f97ed2f81.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_val_000509_cbb3317b3f,train,garbage-can-overflow_val_000509_cbb3317b3f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_val_000513_0301ddf1ca,train,garbage-can-overflow_val_000513_0301ddf1ca.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_val_000518_40dcf8d520,train,garbage-can-overflow_val_000518_40dcf8d520.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-garbage-can-overflow_val_000520_f6ca08dd82,train,garbage-can-overflow_val_000520_f6ca08dd82.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_test_000879_f3142b80ee,train,waste-bin-fill-level-detect2_test_000879_f3142b80ee.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_test_000889_4d6a756eca,train,waste-bin-fill-level-detect2_test_000889_4d6a756eca.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_test_000890_8003a2411e,train,waste-bin-fill-level-detect2_test_000890_8003a2411e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_test_000891_5a9403dd0c,train,waste-bin-fill-level-detect2_test_000891_5a9403dd0c.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_test_000892_e7825b6081,train,waste-bin-fill-level-detect2_test_000892_e7825b6081.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_test_000893_e2775611b9,train,waste-bin-fill-level-detect2_test_000893_e2775611b9.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_test_000894_e937dde59b,train,waste-bin-fill-level-detect2_test_000894_e937dde59b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_test_000895_2b3f609d3a,train,waste-bin-fill-level-detect2_test_000895_2b3f609d3a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000671_c533c95531,train,waste-bin-fill-level-detect2_train_000671_c533c95531.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000672_e571b8653e,train,waste-bin-fill-level-detect2_train_000672_e571b8653e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000674_5ac956af0a,train,waste-bin-fill-level-detect2_train_000674_5ac956af0a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000685_589bffb6eb,train,waste-bin-fill-level-detect2_train_000685_589bffb6eb.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000686_af8b87fa7e,train,waste-bin-fill-level-detect2_train_000686_af8b87fa7e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000687_475969701f,train,waste-bin-fill-level-detect2_train_000687_475969701f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000689_d59cf47119,train,waste-bin-fill-level-detect2_train_000689_d59cf47119.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000690_458e7cf161,train,waste-bin-fill-level-detect2_train_000690_458e7cf161.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000697_763383334d,train,waste-bin-fill-level-detect2_train_000697_763383334d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000710_7f2eb7178a,train,waste-bin-fill-level-detect2_train_000710_7f2eb7178a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000712_800a4db22b,train,waste-bin-fill-level-detect2_train_000712_800a4db22b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000714_b218ea534d,train,waste-bin-fill-level-detect2_train_000714_b218ea534d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000717_869fe9b9b3,train,waste-bin-fill-level-detect2_train_000717_869fe9b9b3.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000723_a9963a7c09,train,waste-bin-fill-level-detect2_train_000723_a9963a7c09.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000724_cace701a6d,train,waste-bin-fill-level-detect2_train_000724_cace701a6d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000733_f13bbaf15b,train,waste-bin-fill-level-detect2_train_000733_f13bbaf15b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000742_14a1f58ad8,train,waste-bin-fill-level-detect2_train_000742_14a1f58ad8.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000743_933bf7f83a,train,waste-bin-fill-level-detect2_train_000743_933bf7f83a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000744_85509ed799,train,waste-bin-fill-level-detect2_train_000744_85509ed799.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000745_33bdcbd3d2,train,waste-bin-fill-level-detect2_train_000745_33bdcbd3d2.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000747_d854e4cb14,train,waste-bin-fill-level-detect2_train_000747_d854e4cb14.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000751_850d852d4d,train,waste-bin-fill-level-detect2_train_000751_850d852d4d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000752_8ef5143de7,train,waste-bin-fill-level-detect2_train_000752_8ef5143de7.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000753_449b15344a,train,waste-bin-fill-level-detect2_train_000753_449b15344a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000754_03283f88dd,train,waste-bin-fill-level-detect2_train_000754_03283f88dd.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000755_48a7a71b81,train,waste-bin-fill-level-detect2_train_000755_48a7a71b81.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000756_0098e7204b,train,waste-bin-fill-level-detect2_train_000756_0098e7204b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000757_a9161a9129,train,waste-bin-fill-level-detect2_train_000757_a9161a9129.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000759_e70c6f93dc,train,waste-bin-fill-level-detect2_train_000759_e70c6f93dc.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000765_dff3d7ea48,train,waste-bin-fill-level-detect2_train_000765_dff3d7ea48.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000769_f262cbf2e0,train,waste-bin-fill-level-detect2_train_000769_f262cbf2e0.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000775_505e3189f1,train,waste-bin-fill-level-detect2_train_000775_505e3189f1.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000777_c493a8dade,train,waste-bin-fill-level-detect2_train_000777_c493a8dade.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000778_c2b9c64cbc,train,waste-bin-fill-level-detect2_train_000778_c2b9c64cbc.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000779_d52f6376df,train,waste-bin-fill-level-detect2_train_000779_d52f6376df.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000780_b510ff4bb9,train,waste-bin-fill-level-detect2_train_000780_b510ff4bb9.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000781_312303bfb2,train,waste-bin-fill-level-detect2_train_000781_312303bfb2.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000783_d1330fffdb,train,waste-bin-fill-level-detect2_train_000783_d1330fffdb.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000788_d4f30b3a8e,train,waste-bin-fill-level-detect2_train_000788_d4f30b3a8e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000789_bf5a226d48,train,waste-bin-fill-level-detect2_train_000789_bf5a226d48.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000790_743baafa79,train,waste-bin-fill-level-detect2_train_000790_743baafa79.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000791_337f866669,train,waste-bin-fill-level-detect2_train_000791_337f866669.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000792_2c7b875af2,train,waste-bin-fill-level-detect2_train_000792_2c7b875af2.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000793_a007ee8f8b,train,waste-bin-fill-level-detect2_train_000793_a007ee8f8b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000794_6a9810e359,train,waste-bin-fill-level-detect2_train_000794_6a9810e359.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000797_ab11a44119,train,waste-bin-fill-level-detect2_train_000797_ab11a44119.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000802_687180b86a,train,waste-bin-fill-level-detect2_train_000802_687180b86a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000805_f67ec59ccd,train,waste-bin-fill-level-detect2_train_000805_f67ec59ccd.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000807_4ab45b39cd,train,waste-bin-fill-level-detect2_train_000807_4ab45b39cd.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000808_e7ec6f29c0,train,waste-bin-fill-level-detect2_train_000808_e7ec6f29c0.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000811_9dc5c47ac6,train,waste-bin-fill-level-detect2_train_000811_9dc5c47ac6.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000813_922611feb9,train,waste-bin-fill-level-detect2_train_000813_922611feb9.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000819_9d767b2eed,train,waste-bin-fill-level-detect2_train_000819_9d767b2eed.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000822_10eb8a2942,train,waste-bin-fill-level-detect2_train_000822_10eb8a2942.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000825_b2a7fba95d,train,waste-bin-fill-level-detect2_train_000825_b2a7fba95d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_train_000826_0c771fa616,train,waste-bin-fill-level-detect2_train_000826_0c771fa616.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000830_5a47d7a068,train,waste-bin-fill-level-detect2_val_000830_5a47d7a068.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000834_046f6bb2f1,train,waste-bin-fill-level-detect2_val_000834_046f6bb2f1.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000836_86f3c993f9,train,waste-bin-fill-level-detect2_val_000836_86f3c993f9.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000839_b4d2631337,train,waste-bin-fill-level-detect2_val_000839_b4d2631337.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000844_c361139a61,train,waste-bin-fill-level-detect2_val_000844_c361139a61.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000845_e25dfee6ee,train,waste-bin-fill-level-detect2_val_000845_e25dfee6ee.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000847_2232ed4492,train,waste-bin-fill-level-detect2_val_000847_2232ed4492.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000848_2e6aa7850f,train,waste-bin-fill-level-detect2_val_000848_2e6aa7850f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000849_e4a05c7bca,train,waste-bin-fill-level-detect2_val_000849_e4a05c7bca.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000854_75ae8d2e86,train,waste-bin-fill-level-detect2_val_000854_75ae8d2e86.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000861_009530820b,train,waste-bin-fill-level-detect2_val_000861_009530820b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000864_ea46f69417,train,waste-bin-fill-level-detect2_val_000864_ea46f69417.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000866_5c73ffefbb,train,waste-bin-fill-level-detect2_val_000866_5c73ffefbb.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000867_715749e740,train,waste-bin-fill-level-detect2_val_000867_715749e740.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000868_0ea8a70066,train,waste-bin-fill-level-detect2_val_000868_0ea8a70066.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000871_738443cccd,train,waste-bin-fill-level-detect2_val_000871_738443cccd.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000872_55e86c01d5,train,waste-bin-fill-level-detect2_val_000872_55e86c01d5.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-train-waste-bin-fill-level-detect2_val_000875_6b6c1240f1,train,waste-bin-fill-level-detect2_val_000875_6b6c1240f1.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_test_000610_4c36217669,val,garbage-can-overflow_test_000610_4c36217669.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_test_000612_400deb564a,val,garbage-can-overflow_test_000612_400deb564a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_test_000646_e9653955c3,val,garbage-can-overflow_test_000646_e9653955c3.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000008_3ac9d5d6f9,val,garbage-can-overflow_train_000008_3ac9d5d6f9.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000021_7c5f9edbbb,val,garbage-can-overflow_train_000021_7c5f9edbbb.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000023_593c4376e2,val,garbage-can-overflow_train_000023_593c4376e2.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000174_68daf77054,val,garbage-can-overflow_train_000174_68daf77054.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000197_1b9e36e09b,val,garbage-can-overflow_train_000197_1b9e36e09b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000250_54cfb84727,val,garbage-can-overflow_train_000250_54cfb84727.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000352_b9c11f7802,val,garbage-can-overflow_train_000352_b9c11f7802.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000427_f4d11b07fd,val,garbage-can-overflow_train_000427_f4d11b07fd.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000428_ff6bff48be,val,garbage-can-overflow_train_000428_ff6bff48be.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000429_e0d4ea8481,val,garbage-can-overflow_train_000429_e0d4ea8481.jpg,,low_annotation_count,only_0_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000440_1a906b2010,val,garbage-can-overflow_train_000440_1a906b2010.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_train_000448_c45ee7899f,val,garbage-can-overflow_train_000448_c45ee7899f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-garbage-can-overflow_val_000456_44a7300d2c,val,garbage-can-overflow_val_000456_44a7300d2c.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000683_a997c70b64,val,waste-bin-fill-level-detect2_train_000683_a997c70b64.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000688_4b2987b3b5,val,waste-bin-fill-level-detect2_train_000688_4b2987b3b5.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000698_5518fdc358,val,waste-bin-fill-level-detect2_train_000698_5518fdc358.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000727_54beb91af5,val,waste-bin-fill-level-detect2_train_000727_54beb91af5.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000728_0b51e499a7,val,waste-bin-fill-level-detect2_train_000728_0b51e499a7.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000731_9617d5224e,val,waste-bin-fill-level-detect2_train_000731_9617d5224e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000767_2414826d45,val,waste-bin-fill-level-detect2_train_000767_2414826d45.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000782_66ade7ca41,val,waste-bin-fill-level-detect2_train_000782_66ade7ca41.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000784_0fee445a6f,val,waste-bin-fill-level-detect2_train_000784_0fee445a6f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000798_86b4cac24d,val,waste-bin-fill-level-detect2_train_000798_86b4cac24d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000806_8253f14e1d,val,waste-bin-fill-level-detect2_train_000806_8253f14e1d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000812_5b6c989c9a,val,waste-bin-fill-level-detect2_train_000812_5b6c989c9a.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000815_e29b60140f,val,waste-bin-fill-level-detect2_train_000815_e29b60140f.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000816_66d83d107e,val,waste-bin-fill-level-detect2_train_000816_66d83d107e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000821_6ed73b5eff,val,waste-bin-fill-level-detect2_train_000821_6ed73b5eff.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_train_000823_4c66ff6f42,val,waste-bin-fill-level-detect2_train_000823_4c66ff6f42.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_val_000855_a79327b1e3,val,waste-bin-fill-level-detect2_val_000855_a79327b1e3.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_val_000873_c4166612ae,val,waste-bin-fill-level-detect2_val_000873_c4166612ae.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_val_000874_0a8c537080,val,waste-bin-fill-level-detect2_val_000874_0a8c537080.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-val-waste-bin-fill-level-detect2_val_000877_0415268b0b,val,waste-bin-fill-level-detect2_val_000877_0415268b0b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_test_000658_8fff348622,test,garbage-can-overflow_test_000658_8fff348622.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000006_495c982f8b,test,garbage-can-overflow_train_000006_495c982f8b.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000028_e1c83ca0d7,test,garbage-can-overflow_train_000028_e1c83ca0d7.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000031_22905a9000,test,garbage-can-overflow_train_000031_22905a9000.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000038_17fe5aed31,test,garbage-can-overflow_train_000038_17fe5aed31.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000164_715eb11ae9,test,garbage-can-overflow_train_000164_715eb11ae9.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000350_ef7d8d01d5,test,garbage-can-overflow_train_000350_ef7d8d01d5.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000351_4e72cc0d6d,test,garbage-can-overflow_train_000351_4e72cc0d6d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000419_4f0d5fb5ea,test,garbage-can-overflow_train_000419_4f0d5fb5ea.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000424_9be9929d2c,test,garbage-can-overflow_train_000424_9be9929d2c.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_train_000444_60d8d1acde,test,garbage-can-overflow_train_000444_60d8d1acde.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_val_000485_11abfa725d,test,garbage-can-overflow_val_000485_11abfa725d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_val_000507_044dfbcb34,test,garbage-can-overflow_val_000507_044dfbcb34.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-garbage-can-overflow_val_000521_ded7da48d2,test,garbage-can-overflow_val_000521_ded7da48d2.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000675_d9fe722661,test,waste-bin-fill-level-detect2_train_000675_d9fe722661.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000693_1ffb02523e,test,waste-bin-fill-level-detect2_train_000693_1ffb02523e.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000726_eb57cc51da,test,waste-bin-fill-level-detect2_train_000726_eb57cc51da.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000732_ef89e144cd,test,waste-bin-fill-level-detect2_train_000732_ef89e144cd.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000741_54727dc448,test,waste-bin-fill-level-detect2_train_000741_54727dc448.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000809_1b7cf44d93,test,waste-bin-fill-level-detect2_train_000809_1b7cf44d93.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000817_b2102e0731,test,waste-bin-fill-level-detect2_train_000817_b2102e0731.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000818_87c7c04deb,test,waste-bin-fill-level-detect2_train_000818_87c7c04deb.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_train_000827_aff9e9f645,test,waste-bin-fill-level-detect2_train_000827_aff9e9f645.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_val_000856_e5344be433,test,waste-bin-fill-level-detect2_val_000856_e5344be433.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_val_000862_d079fd895d,test,waste-bin-fill-level-detect2_val_000862_d079fd895d.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_val_000863_99e9960508,test,waste-bin-fill-level-detect2_val_000863_99e9960508.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending
+lowcount-test-waste-bin-fill-level-detect2_val_000865_93aa9cf393,test,waste-bin-fill-level-detect2_val_000865_93aa9cf393.jpg,,low_annotation_count,only_1_existing_boxes; human must decide whether more containers are visible,pending

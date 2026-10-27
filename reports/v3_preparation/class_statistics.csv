@@ -1,0 +1,5 @@
+split,images,empty_labels,objects,not_full,full,overflow,unknown
+train,627,2,1106,337,335,198,236
+val,134,1,238,82,60,51,45
+test,135,0,241,88,67,40,46
+total,896,3,1585,507,462,289,327

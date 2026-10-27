@@ -1,0 +1,4 @@
+Pillow>=10.0.0
+PyYAML>=6.0.1
+roboflow>=1.1.0
+PySocks>=1.7.1

@@ -1,0 +1,270 @@
+{
+  "data_yaml": {
+    "exists": true,
+    "expected_mapping": true,
+    "path": "data/merged_v3_autolabeled/data.yaml"
+  },
+  "splits": {
+    "train": {
+      "images": 627,
+      "labels": 627
+    },
+    "val": {
+      "images": 134,
+      "labels": 134
+    },
+    "test": {
+      "images": 135,
+      "labels": 135
+    }
+  },
+  "missing_labels": [],
+  "orphan_labels": [],
+  "label_issues": [],
+  "corrupt_images": [],
+  "duplicates_exact_cross_split": [],
+  "near_duplicates_cross_split": [
+    {
+      "left": "train/garbage-can-overflow_test_000547_0950426b20.jpg",
+      "right": "test/garbage-can-overflow_test_000546_73bbe8680b.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_test_000562_157fa842fe.jpg",
+      "right": "val/garbage-can-overflow_val_000478_5ee10a2a09.jpg",
+      "distance": 1,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_test_000564_5be0de714d.jpg",
+      "right": "test/garbage-can-overflow_train_000370_5b65762c73.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_test_000627_14dd12d313.jpg",
+      "right": "test/garbage-can-overflow_test_000558_cdea00dc74.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_test_000657_97b2d362ea.jpg",
+      "right": "test/garbage-can-overflow_val_000519_530bf2db23.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000059_19916b9b00.jpg",
+      "right": "test/garbage-can-overflow_test_000558_cdea00dc74.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000077_69e2a72818.jpg",
+      "right": "val/garbage-can-overflow_train_000361_e3f61b6ac0.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000088_d8fd58230d.jpg",
+      "right": "test/garbage-can-overflow_val_000461_b1f63d30df.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000096_85cb957457.jpg",
+      "right": "val/garbage-can-overflow_test_000538_954ac89b3a.jpg",
+      "distance": 2,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000136_96d1f9235f.jpg",
+      "right": "val/garbage-can-overflow_val_000456_44a7300d2c.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000236_40381936fe.jpg",
+      "right": "val/garbage-can-overflow_train_000316_5b611af0b0.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000243_af58136962.jpg",
+      "right": "val/garbage-can-overflow_train_000244_2408fe2d26.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000267_836c793ab1.jpg",
+      "right": "val/garbage-can-overflow_test_000584_46aad3e071.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000268_d36f19d34a.jpg",
+      "right": "val/garbage-can-overflow_test_000584_46aad3e071.jpg",
+      "distance": 1,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000277_47e7745e63.jpg",
+      "right": "test/garbage-can-overflow_train_000276_046ab44d4e.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000289_018159ded1.jpg",
+      "right": "test/garbage-can-overflow_train_000290_2a49a55ee3.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000291_b59940612a.jpg",
+      "right": "test/garbage-can-overflow_train_000290_2a49a55ee3.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000292_809795c361.jpg",
+      "right": "test/garbage-can-overflow_train_000228_3ce1bf1264.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000292_809795c361.jpg",
+      "right": "test/garbage-can-overflow_train_000293_ab76ab5ae3.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000295_cd21409637.jpg",
+      "right": "val/garbage-can-overflow_val_000505_64aa41ec75.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000301_9bcd370305.jpg",
+      "right": "val/garbage-can-overflow_test_000576_66b09b582f.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000309_bbe22e7502.jpg",
+      "right": "test/garbage-can-overflow_test_000546_73bbe8680b.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000373_ca5c9865d7.jpg",
+      "right": "val/garbage-can-overflow_val_000466_62543f2034.jpg",
+      "distance": 1,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000374_bbd9c02d54.jpg",
+      "right": "val/garbage-can-overflow_train_000387_1085aecb7b.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000380_f9fc42b7b9.jpg",
+      "right": "test/garbage-can-overflow_train_000159_6e42540a62.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000388_5efdf213c7.jpg",
+      "right": "val/garbage-can-overflow_train_000183_586d2c1a3f.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_train_000414_fbece81f60.jpg",
+      "right": "test/garbage-can-overflow_test_000658_8fff348622.jpg",
+      "distance": 0,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_val_000492_0cd613d8b5.jpg",
+      "right": "test/garbage-can-overflow_val_000491_e67eed4951.jpg",
+      "distance": 1,
+      "source": "dhash"
+    },
+    {
+      "left": "train/garbage-can-overflow_val_000496_86ed80713b.jpg",
+      "right": "val/garbage-can-overflow_test_000589_1dd7e09b77.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "train/waste-bin-fill-level-detect2_train_000671_c533c95531.jpg",
+      "right": "val/waste-bin-fill-level-detect2_train_000683_a997c70b64.jpg",
+      "distance": 2,
+      "source": "dhash"
+    },
+    {
+      "left": "train/waste-bin-fill-level-detect2_train_000712_800a4db22b.jpg",
+      "right": "test/waste-bin-fill-level-detect2_train_000711_648ef51893.jpg",
+      "distance": 2,
+      "source": "dhash"
+    },
+    {
+      "left": "train/waste-bin-fill-level-detect2_train_000725_d1932e4e77.jpg",
+      "right": "test/waste-bin-fill-level-detect2_train_000726_eb57cc51da.jpg",
+      "distance": 1,
+      "source": "dhash"
+    },
+    {
+      "left": "train/waste-bin-fill-level-detect2_train_000730_0b0596df70.jpg",
+      "right": "val/waste-bin-fill-level-detect2_train_000729_34ddb1f646.jpg",
+      "distance": 1,
+      "source": "dhash"
+    },
+    {
+      "left": "train/waste-bin-fill-level-detect2_val_000846_27cc4afab7.jpg",
+      "right": "test/waste-bin-fill-level-detect2_test_000881_4aee80ab1e.jpg",
+      "distance": 1,
+      "source": "dhash"
+    },
+    {
+      "left": "val/garbage-can-overflow_test_000561_472740c379.jpg",
+      "right": "test/garbage-can-overflow_test_000600_a6dc048aeb.jpg",
+      "distance": 3,
+      "source": "dhash"
+    },
+    {
+      "left": "val/garbage-can-overflow_train_000177_be1102b127.jpg",
+      "right": "test/garbage-can-overflow_train_000178_d38e9c4d16.jpg",
+      "distance": 0,
+      "source": "dhash"
+    }
+  ],
+  "images_total": 896,
+  "objects_total": 1731,
+  "objects_by_split": {
+    "train": 1252,
+    "val": 238,
+    "test": 241
+  },
+  "overlap_suspects": 1,
+  "box_overlap_suspects": [
+    {
+      "split": "train",
+      "image": "waste-bin-fill-level-detect2_train_000664_b5b2e3af6e.jpg",
+      "issue": "strong_box_overlap",
+      "iou": 0.788
+    }
+  ],
+  "remaining_review_frames": 604,
+  "strict_high_candidates_pending": 59,
+  "ready": false,
+  "verdict": "NOT READY",
+  "blocking_reasons": [
+    "Visual completeness cannot be certified: pending final review entries remain.",
+    "High-confidence scene-transfer candidates have not been manually approved/applied.",
+    "Cross-split same-scene leakage is present.",
+    "No human visual sign-off exists for every frame/box/class."
+  ]
+}

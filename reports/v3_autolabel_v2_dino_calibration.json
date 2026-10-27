@@ -1,0 +1,15 @@
+{
+  "control_images": 18,
+  "manual_full_frame_images": 18,
+  "ground_truth_boxes": 191,
+  "predictions_after_nms": 288,
+  "recall_iou_03": 0.3194,
+  "recall_iou_05": 0.2304,
+  "precision_iou_03": 0.2222,
+  "lid_like_rate_of_gt": 0.0,
+  "tile_size": 1024,
+  "overlap": 0.25,
+  "threshold": 0.12,
+  "elapsed_seconds": 153.6,
+  "note": "Only 18 unique manually confirmed full-frame images exist in geometry_changes.csv; this run cannot satisfy a 30-image manual calibration requirement."
+}

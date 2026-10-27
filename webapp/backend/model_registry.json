@@ -1,0 +1,29 @@
+[
+  {
+    "id": "best-v1",
+    "name": "Best v1 — экспериментальная модель",
+    "filename": "best1.pt",
+    "description": "Первая обученная YOLO-модель для распознавания мусорных контейнеров и их заполненности.",
+    "warning": "Первая версия модели. Может пропускать контейнеры на фотографиях, отличающихся от обучающего датасета.",
+    "classes": [
+      "empty",
+      "partial",
+      "full",
+      "overflow"
+    ],
+    "added_at": "2026-09-20",
+    "status": "available"
+  },
+  {
+    "id": "best-v2",
+    "name": "Best v2 — обнаружение контейнеров",
+    "filename": "best2.pt",
+    "description": "Модель обнаружения мусорных контейнеров.",
+    "warning": "",
+    "classes": [
+      "trash_bin"
+    ],
+    "added_at": "2026-09-21",
+    "status": "available"
+  }
+]

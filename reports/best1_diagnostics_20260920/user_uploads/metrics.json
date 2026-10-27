@@ -1,0 +1,107 @@
+{
+  "model": "/opt/trash-bin-ai/backend/models/best1.pt",
+  "imgsz": 640,
+  "nms_iou": 0.45,
+  "iou_for_evaluation": 0.5,
+  "classes": [
+    "empty",
+    "partial",
+    "full",
+    "overflow"
+  ],
+  "images": 3,
+  "ground_truth_total": 0,
+  "thresholds": {
+    "0.25": {
+      "predictions": 2,
+      "ground_truth": 0,
+      "true_positive": 0,
+      "false_positive": 2,
+      "false_negative": 0,
+      "any_class_overlap": 0,
+      "precision": 0.0,
+      "recall": null,
+      "f1": 0.0,
+      "predicted_classes": {
+        "empty": 2
+      },
+      "ground_truth_classes": {},
+      "confidence": {
+        "count": 2,
+        "min": 0.2606,
+        "max": 0.3256,
+        "mean": 0.2931,
+        "median": 0.2931,
+        "bins": {
+          "0.00-0.10": 0,
+          "0.10-0.15": 0,
+          "0.15-0.25": 0,
+          "0.25-0.50": 2,
+          "0.50-1.00": 0
+        }
+      },
+      "class_confusions_at_iou_0_5": {}
+    },
+    "0.15": {
+      "predictions": 2,
+      "ground_truth": 0,
+      "true_positive": 0,
+      "false_positive": 2,
+      "false_negative": 0,
+      "any_class_overlap": 0,
+      "precision": 0.0,
+      "recall": null,
+      "f1": 0.0,
+      "predicted_classes": {
+        "empty": 2
+      },
+      "ground_truth_classes": {},
+      "confidence": {
+        "count": 2,
+        "min": 0.2606,
+        "max": 0.3256,
+        "mean": 0.2931,
+        "median": 0.2931,
+        "bins": {
+          "0.00-0.10": 0,
+          "0.10-0.15": 0,
+          "0.15-0.25": 0,
+          "0.25-0.50": 2,
+          "0.50-1.00": 0
+        }
+      },
+      "class_confusions_at_iou_0_5": {}
+    },
+    "0.1": {
+      "predictions": 5,
+      "ground_truth": 0,
+      "true_positive": 0,
+      "false_positive": 5,
+      "false_negative": 0,
+      "any_class_overlap": 0,
+      "precision": 0.0,
+      "recall": null,
+      "f1": 0.0,
+      "predicted_classes": {
+        "empty": 3,
+        "full": 2
+      },
+      "ground_truth_classes": {},
+      "confidence": {
+        "count": 5,
+        "min": 0.1222,
+        "max": 0.3256,
+        "mean": 0.1918,
+        "median": 0.1264,
+        "bins": {
+          "0.00-0.10": 0,
+          "0.10-0.15": 3,
+          "0.15-0.25": 0,
+          "0.25-0.50": 2,
+          "0.50-1.00": 0
+        }
+      },
+      "class_confusions_at_iou_0_5": {}
+    }
+  }
+}

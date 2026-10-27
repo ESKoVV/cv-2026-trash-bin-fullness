@@ -1,0 +1,3 @@
+timestamp,candidate_id,split,image,action,box,note
+2026-09-20T15:10:46.665912+00:00,existing-00002,test,garbage-can-overflow_test_000548_118f7fefb2.jpg,existing_reviewed,,
+2026-09-20T15:11:03.957283+00:00,existing-00003,test,garbage-can-overflow_test_000591_89352546bb.jpg,existing_reviewed,,

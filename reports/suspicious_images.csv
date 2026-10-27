@@ -1,0 +1,14 @@
+source,split,image,reason,decision
+garbage-can-overflow,train,train/images/1061-jpg_blur_jpg.rf.5c9e0d163b6439f9954ae7fad739b0c0.jpg,manual_visual_review:target not reliably identifiable,excluded_from_training
+garbage-can-overflow,train,train/images/1541_blur_gridmask_jpg.rf.ea60924a62822b3780a3b8cfc87c7b3d.jpg,manual_visual_review:target not reliably identifiable,excluded_from_training
+garbage-can-overflow,train,train/images/3707-jpg_blur-jpg_gridmask_jpg.rf.6ece350ce3a6261bd582887dfd0babd2.jpg,manual_visual_review:target not reliably identifiable,excluded_from_training
+garbage-can-overflow,train,train/images/4237_jpg.rf.e85db72458fa82652bb8132bc6459e40.jpg,manual_visual_review:target not reliably identifiable,excluded_from_training
+garbage-can-overflow,train,train/images/4543_jpg.rf.aa7041542a7cfcd02b1023f797f5dbbf.jpg,manual_visual_review:target not reliably identifiable,excluded_from_training
+garbage-can-overflow,val,valid/images/-24-11-2021-234721_jpg.rf.237ccdecf1b8419c7d5d82c755ca5c37.jpg,manual_visual_review:fill-level label contradicts visible empty container,excluded_from_training
+garbage-can-overflow,val,valid/images/111_jpg.rf.9fd77b2744bd75e1d588ba9bdb165a71.jpg,manual_visual_review:bbox covers waste bags rather than a container,excluded_from_training
+garbage-can-overflow,val,valid/images/1708_jpg.rf.7e5d85af7ce1e7767e4adc55d0449694.jpg,manual_visual_review:bbox covers waste bags rather than a container,excluded_from_training
+garbage-can-overflow,val,valid/images/3851-jpg_blur_jpg.rf.2e372bb4c55718819dd7294ada2e41c1.jpg,manual_visual_review:target not reliably identifiable,excluded_from_training
+garbage-can-overflow,test,test/images/681_jpg.rf.f9b81da50d156fee8ed0aa3c27efc81e.jpg,manual_visual_review:target not reliably identifiable,excluded_from_training
+waste-bin-fill-level-detect2,train,train/images/IMG_20251025_140815_jpg.rf.260029b908cc21e18cf8381ad756ea14.jpg,"manual_visual_review:bbox covers only a waste pile, not a container",excluded_from_training
+waste-bin-fill-level-detect2,train,train/images/IMG_20251025_142330_jpg.rf.18dc09e28a4101077524748464a9ce6b.jpg,"manual_visual_review:bbox covers only a waste pile, not a container",excluded_from_training
+waste-bin-fill-level-detect2,val,valid/images/IMG-20251004-WA0024_jpg.rf.38b67ff683383898206bd0d64d04ba02.jpg,"manual_visual_review:bbox covers only a waste pile, not a container",excluded_from_training

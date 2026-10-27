@@ -1,0 +1,10 @@
+path: .
+train: images/train
+val: images/val
+test: images/test
+nc: 4
+names:
+  0: empty
+  1: partial
+  2: full
+  3: overflow

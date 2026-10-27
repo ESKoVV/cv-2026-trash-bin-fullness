@@ -1,0 +1,17 @@
+split,class_id,class_name,objects,images
+train,0,not_full,349,231
+train,1,full,332,239
+train,2,overflow,206,141
+train,3,unknown,365,170
+val,0,not_full,82,53
+val,1,full,60,44
+val,2,overflow,51,36
+val,3,unknown,45,33
+test,0,not_full,88,56
+test,1,full,67,46
+test,2,overflow,40,29
+test,3,unknown,46,31
+total,0,not_full,519,340
+total,1,full,459,329
+total,2,overflow,297,206
+total,3,unknown,456,234

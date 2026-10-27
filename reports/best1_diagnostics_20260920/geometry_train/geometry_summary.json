@@ -1,0 +1,21 @@
+{
+  "split": "train",
+  "boxes": 1108,
+  "class_distribution": {
+    "empty": 534,
+    "full": 444,
+    "overflow": 48,
+    "partial": 82
+  },
+  "area_fraction": {
+    "min": 0.0021886,
+    "median": 0.131347,
+    "mean": 0.182898
+  },
+  "heuristic_candidates": 24,
+  "heuristics": {
+    "very_small_area": "normalized area < 0.0075",
+    "short_wide_box": "height < 0.12 and width/height > 1.7"
+  },
+  "note": "Candidates require human review; geometry alone cannot prove that a box is a lid or contents."
+}

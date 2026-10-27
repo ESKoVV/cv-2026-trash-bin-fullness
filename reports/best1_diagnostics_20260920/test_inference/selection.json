@@ -1,0 +1,86 @@
+{
+  "seed": 20260920,
+  "dataset": "data/merged/images/test",
+  "images": [
+    {
+      "image": "garbage-can-overflow_test_000550_f502639262.jpg",
+      "label": "garbage-can-overflow_test_000550_f502639262.txt"
+    },
+    {
+      "image": "garbage-can-overflow_test_000650_f65ccb5936.jpg",
+      "label": "garbage-can-overflow_test_000650_f65ccb5936.txt"
+    },
+    {
+      "image": "garbage-can-overflow_train_000099_cd9d8c2265.jpg",
+      "label": "garbage-can-overflow_train_000099_cd9d8c2265.txt"
+    },
+    {
+      "image": "garbage-can-overflow_train_000108_3efdb30f4e.jpg",
+      "label": "garbage-can-overflow_train_000108_3efdb30f4e.txt"
+    },
+    {
+      "image": "garbage-can-overflow_train_000218_a609b4d672.jpg",
+      "label": "garbage-can-overflow_train_000218_a609b4d672.txt"
+    },
+    {
+      "image": "garbage-can-overflow_train_000228_3ce1bf1264.jpg",
+      "label": "garbage-can-overflow_train_000228_3ce1bf1264.txt"
+    },
+    {
+      "image": "garbage-can-overflow_train_000350_ef7d8d01d5.jpg",
+      "label": "garbage-can-overflow_train_000350_ef7d8d01d5.txt"
+    },
+    {
+      "image": "garbage-can-overflow_train_000360_d3e0798684.jpg",
+      "label": "garbage-can-overflow_train_000360_d3e0798684.txt"
+    },
+    {
+      "image": "garbage-can-overflow_train_000402_97e6e97da3.jpg",
+      "label": "garbage-can-overflow_train_000402_97e6e97da3.txt"
+    },
+    {
+      "image": "garbage-can-overflow_train_000411_a36e99961f.jpg",
+      "label": "garbage-can-overflow_train_000411_a36e99961f.txt"
+    },
+    {
+      "image": "garbage-can-overflow_val_000485_11abfa725d.jpg",
+      "label": "garbage-can-overflow_val_000485_11abfa725d.txt"
+    },
+    {
+      "image": "garbage-can-overflow_val_000507_044dfbcb34.jpg",
+      "label": "garbage-can-overflow_val_000507_044dfbcb34.txt"
+    },
+    {
+      "image": "waste-bin-fill-level-detect2_test_000881_4aee80ab1e.jpg",
+      "label": "waste-bin-fill-level-detect2_test_000881_4aee80ab1e.txt"
+    },
+    {
+      "image": "waste-bin-fill-level-detect2_train_000693_1ffb02523e.jpg",
+      "label": "waste-bin-fill-level-detect2_train_000693_1ffb02523e.txt"
+    },
+    {
+      "image": "waste-bin-fill-level-detect2_train_000716_47d372f184.jpg",
+      "label": "waste-bin-fill-level-detect2_train_000716_47d372f184.txt"
+    },
+    {
+      "image": "waste-bin-fill-level-detect2_train_000737_c6ce6ea4dc.jpg",
+      "label": "waste-bin-fill-level-detect2_train_000737_c6ce6ea4dc.txt"
+    },
+    {
+      "image": "waste-bin-fill-level-detect2_train_000746_128d624b7a.jpg",
+      "label": "waste-bin-fill-level-detect2_train_000746_128d624b7a.txt"
+    },
+    {
+      "image": "waste-bin-fill-level-detect2_train_000803_4359866dc4.jpg",
+      "label": "waste-bin-fill-level-detect2_train_000803_4359866dc4.txt"
+    },
+    {
+      "image": "waste-bin-fill-level-detect2_val_000831_0aa06c1d40.jpg",
+      "label": "waste-bin-fill-level-detect2_val_000831_0aa06c1d40.txt"
+    },
+    {
+      "image": "waste-bin-fill-level-detect2_val_000852_79389e8ec8.jpg",
+      "label": "waste-bin-fill-level-detect2_val_000852_79389e8ec8.txt"
+    }
+  ]
+}

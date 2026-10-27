@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*key*
+*token*
+secrets/
+
+# Python and notebook runtime
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded data, generated data, trained weights and reports with image pixels
+data/raw/**
+data/merged/**
+!data/raw/.gitkeep
+!data/merged/.gitkeep
+!data/merged/data.yaml
+models/**
+!models/.gitkeep
+reports/samples/**
+!reports/samples/.gitkeep
+reports/excluded_files.csv
+*.pt
+*.onnx
+*.ncnn/
+runs/
+
+# Temporary files and OS metadata
+*.zip
+*.tmp
+*.log
+.DS_Store

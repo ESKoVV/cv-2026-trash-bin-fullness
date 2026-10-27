@@ -1,0 +1,349 @@
+filename,original_split,original_classes,removal_reason,removal_stage,evidence
+-11_jpg.rf.bab6250c46ff8639dd3eecc4d13db0a8.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-21_jpg.rf.179a036a3c7e0afb5478b3777c2f6269.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-22_jpg.rf.31d5eb0006581eda29c3de99483295c8.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-24_jpg.rf.9cf51b8c964f068a39b36a1e2fa2a3e7.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-27_jpg.rf.2a42463988e88623d5376f11cc65120b.jpg,test,Open_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-32_jpg.rf.da003ead3bb2baaff4056385d038f1ca.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-36_jpg.rf.89e4f99291b7b13fd3dbbcd46b81b27f.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-39_jpg.rf.bcfe695d4c8e36cee4467f72a955f18e.jpg,test,Open_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-3_jpg.rf.09e752872b72dd6877659f2f1053980b.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-46_jpg.rf.8d3f00e618dd0a8e8bdec634a8deddf0.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-47-_jpg.rf.a321a52aa9c54f74a38e592aceed4622.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-58_jpg.rf.1134739be7fbb7c97215cb95d474619a.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-59_jpg.rf.b25b74ec187d572908ef3f5fd1cdd8ee.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-60_jpg.rf.6cd3f488d5fc7847f97dc3368bfdb452.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-61_jpg.rf.1ae0c7f755b8cac3b2881c91964cca13.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-63_jpg.rf.ac0eb29aa39c890d6cf7dcfcb6e35a49.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-64_jpg.rf.32736ca719ad060bf752080a30b18956.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-65_jpg.rf.dfb59842c47c92e0d43a51a7b2e50381.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-68_jpg.rf.fc39595dd02d42c31064483865236b46.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-69_jpg.rf.aa4108042cc2920f4568667a5255c125.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-84_jpg.rf.2c785dc3861c7e96c41dce77a3b8c760.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-86_jpg.rf.fa7d82a35e2bf3e9e9faf95e8c2ee77c.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-8_jpg.rf.7e045c27f095a9b197a1c3fbcb76a029.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-91_jpg.rf.2ffe530fcbf1548f8bc5d02ad96cfa3b.jpg,test,Close_empty; Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-96_jpg.rf.2b81d74cb41fb7b05edd666ad02efc25.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-97_jpg.rf.b0581201bd5272869ec223efe6b0cb1c.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-98_jpg.rf.71971b50e7536fb79bc18beed8810b12.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+00TRASH3-jumbo_jpg.rf.4a03ec9976577d2643e8113b8b838239.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1053_jpg.rf.fcac08de33992c6410a7e8119d3882f7.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1373_jpg.rf.1edc11bea74c3a3115a0204bed1d8f7c.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1503_jpg.rf.905748125f7f80d37e3369d72ec9d0d0.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1511_jpg.rf.406309e88cb1e97ca868ef28ef1bf4ff.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1544_jpg.rf.e7d96a376d30fd410a55e482d6f43e81.jpg,test,Close_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1569_jpg.rf.e62f811388069aa6a120854fef8fab11.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1575_blur_jpg.rf.57dd4b9ce87c257c48812ade8b3fcb74.jpg,test,Close_empty; Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1629_jpg.rf.735a1e29a1f42b00b440139c9ad5dc46.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1772_jpg.rf.942beefd293e8c55f523505b48abee0a.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1774_blur_jpg.rf.be7400a9215a59043bc56260dc3a35ad.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1775_jpg.rf.ab7cad614c8f0f1db57c1553cf116097.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1782_blur_jpg.rf.455e2a377f9244fbfac536cbacea8ba5.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1831_jpg.rf.47dffd3cbffcc5c24e418547699c0215.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1882_jpg.rf.338ff88302e06ba434e1eb47f3ec7046.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+271_jpg.rf.32b6f921f6ca7e74e5bcbdfd44d86297.jpg,test,Close_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+331_jpg.rf.29518131a038a4f1f1980355a6d9b55d.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+359_jpg.rf.bd2fce7dbca4e52d0b1c9c789235bee9.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+36_jpg.rf.0f93ccea09514a73bf58ab69fe550748.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+379_jpg.rf.b67ddebaf2d442c72966c401bf994e88.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+4619_jpg.rf.6985faffc74db319bd71a15b8930adb6.jpg,test,Close_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+596_jpg.rf.23436805d122404c97c69a0487d3915c.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+681_jpg.rf.f9b81da50d156fee8ed0aa3c27efc81e.jpg,test,Close_empty; Open_full,manual_visual_review,visual_qa,reports/suspicious_images.csv
+775_jpg.rf.a621c73e326f6a175ebe019663b3aee1.jpg,test,Open_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+7e24a1d54bf6f3cdadc0043a89468ed1_jpg.rf.ea39554f5c0a6222252e6f5a437a3fe3.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+bec9d886-6797-11e5-8c9e-40f2e96c8ad8_jpg.rf.3ffcc96aec778fea29cdfc5f1fe218df.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-34_jpg.rf.c8f3640ec3def07a734d2cde9903a5bd.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-4_jpg.rf.e18605d162e938b426e9136ddd197cf2.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-dump-plastic-waste-pile-garbage-plastic-waste-bottle-bag-foam-tray-many-bin-yellow-plastic-waste-pollution-123973351_jpg.rf.0a228e8ff6fff3a7280b546dbbc4459d.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-overflow-picture_csp90241118_jpg.rf.6cbe5697afbb673bbe24083ead241970.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1138822598-612x612_jpg.rf.92faae75d7a47cbe5ff89da6e81daf0f.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1227747975-612x612_jpg.rf.56a423b8ef219fbfcc74a8a8756d16d3.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1255472365-612x612_jpg.rf.06d130870a7074543a9ff29045563cae.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-131976172-1024x1024_jpg.rf.70b74f42b593cd606fc6584c9498be1e.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-152832047-612x612_jpg.rf.2cfbc82f9b9add0a64a50f31d49dd5e2.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-157396726-612x612-1-_jpg.rf.7fffbeffaf989b7cdf25c067acb787b7.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-578313906-612x612_jpg.rf.8b695e1f5f9f7dad38d463567d43a523.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-815792574-612x612_jpg.rf.04cd84e084582e6b83e06d404b026fdb.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-89127706-612x612_jpg.rf.ac448f4afbdc93831a77f86c675fda75.jpg,test,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image23_jpeg.rf.9bd10781c8c6aded2203f5a2e3b9f8cc.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image29_jpeg.rf.98f8e4d96bbec85d917f612fb901405e.jpg,test,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+IMG_20220412_211230_jpg.rf.b4b818f0d284366f911097cc4c8f0f79.jpg,test,Open_empty; Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+IMG_20220412_211249_jpg.rf.f54bdeda26ce6cd9d437b3947329a062.jpg,test,Open_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+IMG_20220416_014255_jpg.rf.70828494cad94504c489b4a940f7e9e0.jpg,test,Close_empty; Open_empty; Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+overflowing-garbage-can-washington-dc-C8E3XB_jpg.rf.a45f666186634a4901a808c80de557be.jpg,test,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-waste-can-be-left-in-a-separate-black-bag-on-a-white-background-free-vector_jpg.rf.24cce8eafbc056594c59b988d8029dff.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+0eb3e722-679f-11e5-b0e3-40f2e96c8ad8_jpg.rf.8837fca49d9b5d17b3d7f073fda364a0.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+102_jpg.rf.ed3167b1342628c8fe588147c54121a6.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1043_jpg.rf.458974916529346bc38349c41c6618a6.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1050_jpg.rf.2b64007c95202c9d3b370edecfaa15a5.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1059_jpg.rf.fc28cef0f0f1640e342421bd09bdafea.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1061-jpg_blur_jpg.rf.5c9e0d163b6439f9954ae7fad739b0c0.jpg,train,Open_empty,manual_visual_review,visual_qa,reports/suspicious_images.csv
+1112_jpg.rf.1eab6bf3af776235c9b536c0f354ed05.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1113_jpg.rf.d6ac737d8cdb6d5e73adf561c65ec7e7.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1126d22c-679e-11e5-8121-40f2e96c8ad8_jpg.rf.8625b8406b8ffc5e6daf27f6de2c0593.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1173_jpg.rf.ad3eec9b9cdcec5ad246fc0f74b76b15.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1179_jpg.rf.7d35525eaba50b264cf6cbd120b393ed.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1230_jpg.rf.f58eaeb552e4e3097aec27d1a6c7d42f.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1236_jpg.rf.fc5b5ad2443b9a946fd7d46afcbd337b.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1267_jpg.rf.5861616909ae5ea8099a855e122b7b1b.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1282_jpg.rf.c6d4be0bfd05c84332fd3954b8b570b0.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+130-1307000_garbage-garbage-heap-waste-waste-pile-disposal-pile_jpg.rf.053c0be12b839330168fa8fa57cfc7ac.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1305_jpg.rf.1679046fb789a222a79b158ef6b81689.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1326_jpg.rf.e362b92be6ba8c50f6b8a7e3515902a0.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1327_jpg.rf.0c3065313533e905235cd34ab085df5c.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1339_jpg.rf.b4d7d4b768a25384226288e756f9ab76.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+134_jpg.rf.d2d0f388ebe3f3897acd3226833b951b.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1360_jpg.rf.a3d58d47d11595235c6a287c57907e02.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1390_jpg.rf.dc51f893110b9e03ece426e1702e2a48.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1412_jpg.rf.efd2d08b73d12fb59b39a9f44a7518bd.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1474_jpg.rf.7282adbc3168278096054d08d346dc3c.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1477_jpg.rf.2179a47f360e000844daf63385d088f9.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1525_jpg.rf.abd8a7de450aa40f70c01d3175dd3a8a.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1541_blur_gridmask_jpg.rf.ea60924a62822b3780a3b8cfc87c7b3d.jpg,train,Close_full,manual_visual_review,visual_qa,reports/suspicious_images.csv
+1564_jpg.rf.f92f14774cf3c31fb171255b6c0e3101.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1573_jpg.rf.27d1591eda9932e627ee80f560a4dbf0.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1577_jpg.rf.2f359b05862244d4456420daf5892618.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1592_jpg.rf.4289fc37fbc09489b12a22db374854d0.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1594_jpg.rf.fc35c29af0e9a0d6161bd2721ea40ab0.jpg,train,Close_empty; Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1604_jpg.rf.d11ddb4a689a1d760bbe949131726aa5.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1623_jpg.rf.ae9d5c9477beb7fd3cc189a09fd1d821.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1632_jpg.rf.038fd8e37840294ba25d1b27f455289f.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1642_jpg.rf.a931c149ab5ef6687d0fc0638e7243fa.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1715_jpg.rf.e923f7e54b547fbab53018e35d8d85e7.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1732_jpg.rf.a305eed2ad384eb8f85ea5d087a06efc.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1734_jpg.rf.1678b1fce5e6dd19ab7ef387e367ad89.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1752_jpg.rf.f5de7110017c3eaa306004d100d70320.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1762_jpg.rf.b03b43bd09236c91363a72b5293d7429.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+182_jpg.rf.845b49b2b1d29092ed860dcfc1d597d7.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1870_jpg.rf.f6ca73621e2701434648465ba177419f.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1885_jpg.rf.62fc73f716736c7be24c1d83898b2266.jpg,train,Close_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1900_jpg.rf.6d9f3d6e6320316ce178bf9a692d1095.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1918_jpg.rf.47c35dafad64e44db536b545f81d13ce.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1934_jpg.rf.24a12827129f45e2f4abf1ee21cb919c.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1955_jpg.rf.6bada2af5c819628664fc3be1226ecf9.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1960_jpg.rf.013d95584e972c2f903422d2931bbc0f.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1984_jpg.rf.cae1fd4911cb6966e14422edf7e53d57.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1996_jpg.rf.ff1d722492cbd9e320f9144a0b5d1fa5.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+201_jpg.rf.97db6bca879c401136b59c7c01e1293a.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+209_jpg.rf.b3b38d1cb9a22dd6220c90cf9c5eaca0.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+217_jpg.rf.2a47c043dc910b33c5c6eaf865dfa5ed.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+261_jpg.rf.458f583ce651408dbe0cd53cfb62f458.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+2655dada-6799-11e5-8dd0-40f2e96c8ad8_jpg.rf.89775d703d170f12265d3072a4144f46.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+2658e0b4-6798-11e5-8c9e-40f2e96c8ad8_jpg.rf.d45b11b65c18dea29283f5666257a477.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+288_jpg.rf.23207ae8a3b7616a6cbf1524b900640d.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+30f0acb8-679e-11e5-8121-40f2e96c8ad8_jpg.rf.d31ed9b30d01026bd9661f71141c0fe9.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+328_jpg.rf.78a1f3114c066ed9a0a9145bdfd4eae5.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+3707-jpg_blur-jpg_gridmask_jpg.rf.6ece350ce3a6261bd582887dfd0babd2.jpg,train,Open_empty,manual_visual_review,visual_qa,reports/suspicious_images.csv
+371_jpg.rf.14779d06805966a667b710d02bd919c9.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+422_jpg.rf.6b772da079251963c9da9166f31ea1bb.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+4237_jpg.rf.e85db72458fa82652bb8132bc6459e40.jpg,train,Close_empty,manual_visual_review,visual_qa,reports/suspicious_images.csv
+438_jpg.rf.03da3574c9c43e8681e528f8a2f718a5.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+4510_jpg.rf.d024da60d5dfe77646940052b2521020.jpg,train,Close_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+4543_jpg.rf.aa7041542a7cfcd02b1023f797f5dbbf.jpg,train,Close_empty,manual_visual_review,visual_qa,reports/suspicious_images.csv
+459_jpg.rf.9bc4407ed4d85b721c4984a51229c818.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+4658_jpg.rf.47d16a80e9f31439b5aa53660f9312ee.jpg,train,Close_empty; Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+4671_jpg.rf.0abfc242be569eb94749ba5660300ba4.jpg,train,Close_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+493_jpg.rf.823c742bca2e454eb4b1e707fd0248c5.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+497_jpg.rf.b9298ba21048194355cd5f18809bb600.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+507_jpg.rf.fff7fa241cf59c09c694017aabced9a1.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+508_jpg.rf.f7ecf3c946bc4b70fd9b723cc6154082.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+530_jpg.rf.362960d63ec8265fdaa26242e4c69037.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+536_jpg.rf.c07002fab95990ca8e40a911c87b0a17.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+550_jpg.rf.c6f92cda647c49465a2480ff8e9594a1.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+562_jpg.rf.73577172ff892f2beed7d005861c1bd7.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+567_jpg.rf.2c5a7ebc7596c1ca95fcc4188a347384.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+570_jpg.rf.6ebd48dda21f1307a12d0ccc0fd9dac0.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+627_jpg.rf.9b52b354ceb79994cf00de9789106b27.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+63073041_jpg.rf.4c056602928746adbbf3efbae16dc462.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+650_jpg.rf.cb79f7d0a9c00289ead290cc7af51bdd.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+663_jpg.rf.8aae6f64b6649d10f0c58c7596b7ebd0.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+66e9da86-67a0-11e5-a3d2-40f2e96c8ad8_jpg.rf.8804bdcee373c1865fdecda49ffc7809.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+698_jpg.rf.e101b172e35f0753d64e1175103e374b.jpg,train,Close_empty; Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+706_jpg.rf.640e94f26e94f324876df89e7b7710be.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+727_jpg.rf.a3f0b4bb3091a30d1806808a479a7be4.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+729_jpg.rf.dd35f427bb9f1f7e7f7c067558a93c56.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+72_jpg.rf.331095a80b14709163a8f3772d3cb8b3.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+733_jpg.rf.35996efa01593d980f65c38ee568f52f.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+7631270960_0740ccd604_z_jpg.rf.7b25c768bad60e275460123c77de4e4b.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+764_jpg.rf.1b6f1c44521de2ea39b7631507cfa6db.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+765_jpg.rf.aa00ea951951ed8d855cb53d866411b1.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+766_jpg.rf.b5a1ac05a6e27b7c7321c718422798f2.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+77_jpg.rf.e210f12436550bb79708a87cd554fc57.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+801533-garbage-29_jpg.rf.3e4feebcc880471f0e51d6f8e861e2c9.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+83_jpg.rf.c71110c4bd5e0635e1d3447df140a163.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+864_jpg.rf.e60bc6c1493e01ba3cb99bc31be8dd45.jpg,train,Close_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+870_jpg.rf.c86c1940c2d2faeb4d2c6c8ecfde51b3.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+888_jpg.rf.d7853b3ff07fd61abb981ff22551fd19.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+899_jpg.rf.17db4599180e634ed9e6a8d8f031fc1e.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+911108a4-6799-11e5-ba3c-40f2e96c8ad8_jpg.rf.29f5b30011077e524e15811dba1e36cc.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+915_jpg.rf.1ad6417c111704133427b71a80109f64.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+92_jpg.rf.3321dd0f2724341ebac46b9186b75c3f.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+944_jpg.rf.212b167d125a70f8541e42b53ae17576.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+972_jpg.rf.c578ee717dddb884ff15b90e00f66f87.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+996_jpg.rf.03243d15567aeec4a7470d5db7d6ae3b.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+_109791516_gettyimages-155382228_jpg.rf.63f5c8b75964f0810c8b25b862e61763.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+Afghan-children-walk-by-solid-waste_Resized_0_jpg.rf.0ed178daa595defb63594ddca82bc795.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+bukit-batok-trash-overflows-1_jpg.rf.a0a6f96bf13d4b2e59c5dc644822309f.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+bukit-batok-trash-overflows-3_jpg.rf.534538140cf01139877f3725e071df85.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+cddgqguice451_jpg.rf.45a94a9067cc2d634b0825586827b703.jpg,train,Open_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+e202a82b-eedb-4e0a-bde7-46a99aca2cf5_jpg.rf.ba5d34bcd2631e4c8368c25d84a65e2f.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+e8887d18-67a0-11e5-a5ed-40f2e96c8ad8_jpg.rf.64f12f78439ef2fc625c64aa80d149b9.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+e9a2863e-67a1-11e5-b0b2-40f2e96c8ad8_jpg.rf.d1532b695e084a8d601ff3b1b80b6777.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+file76fikjtx2tgrkkhzbaf-1008973628-1564688975_jpg.rf.857b1cab50ed18b9fe70b11d9baef4e4.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-10_jpg.rf.0ee73a552cfe3c871281aede75dab50d.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-12_jpg.rf.459607bd4d1166398e5ea9e9bd11d59f.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-13_jpg.rf.2be9962b633cace31036ade9b418872a.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-14_jpg.rf.d333323e20d2b6ac3917dc6f49d95fa4.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-15_jpg.rf.44fb1b46b79a073608cc49bb9fc114f7.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-16_jpg.rf.6b99af6763fc93bccc230d69fe7e8b4d.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-19_jpg.rf.7661ffd709b138dff4a2580a3fbdb33e.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-21_jpg.rf.46ab61169a234b78f9e925a6c8f068b7.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-23_jpg.rf.265d619eef7f8de8a67798bba182ef12.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-25jpg_jpg.rf.3088be9bcfbc1f24869b3a953e73be07.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-26_jpg.rf.44a3bc1b45c8a1b771bc8bb67ee02d6b.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-27_jpg.rf.04ab620b39fb96d6bae8fdc9ee492600.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-28_jpg.rf.3c8274ee5b1fe46e102f2d7763890d26.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-2_jpg.rf.eba28df1e367a39c6a3d55948a859e5a.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-30_jpg.rf.05338e58f3439e2cd2f8bf8d983bf287.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-31_jpg.rf.8ab93a55726d2ec9bc14fe0e78c8f875.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-33_jpg.rf.48f52e3b0335c902b166cc9f94efe784.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-35_jpg.rf.137cdb94b2868863d110b7b938f0fdaa.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-38_jpg.rf.778d3a93cdbf10f8026c65e64b3269ae.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-3_jpg.rf.3f6c57e52b497f9fe6ce6970c5d48084.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-5_jpg.rf.f4df27feec2400dd55494650a5df4af8.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-6_jpg.rf.f4b3188036b76e1198a49c914bf183af.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-bin-and-two-black-bags-11552765745ekvx1iejc1_png.rf.7e710d4557ee6e7b12702df1e66613e4.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-bin-full-of-trash-overflowing-container-vector-21691953_jpg.rf.54005fde221f1d45a6f8f884cb725a1f.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-can-1260832__340_jpg.rf.183f868fb3aa31bf1763255591afbfae.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-pile-isolated-garbage-pile-isolated-white-background-126778450_jpg.rf.eb1ec95b3f71ff067c8eedf63722af80.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-pile-isolated-white-background-garbage-pile-isolated-125522454_jpg.rf.32a508b2f412d3babb3df9c6a1f8618b.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-107861536-612x612_jpg.rf.44fd44f21b719f64693ea22a013b9dd4.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-108914069-612x612_jpg.rf.17ca1fe47dae0afc0fff3f1d7c72976d.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-113547189-612x612_jpg.rf.ac8f25f5a4d458ee6ebb7f6629d91072.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1158989319-612x612_jpg.rf.69a66bd52c663cf734d0c24aa6f6d32d.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1160790389-612x612_jpg.rf.97eaaf371c59535771eebf41df02c819.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1173217747-612x612_jpg.rf.42e39ade6ae07ae7d64d3db88a5d0c25.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1190424717-612x612_jpg.rf.208088d318c8b34feede0e074e6da841.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1198709854-612x612_jpg.rf.94f236c54cec8579c743e2257bbc8a90.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1218460111-612x612_jpg.rf.daaeb2f46122ab46077299ad6d9cb5d9.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1218760425-612x612_jpg.rf.8e07a349af4f13b16e218417c34db5ea.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1220899747-612x612_jpg.rf.7bae185e4ca8a4e4fdff62c7e4a79046.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1230335025-612x612_jpg.rf.66e2f4565695afb028d49dcffaad1282.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1230335118-612x612_jpg.rf.70b4e565136c4a92ef46491b7b0367a1.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1263836816-612x612_jpg.rf.a7a3f28e38f74787a69a1117707db491.jpg,train,Close_full; Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1264171646-612x612_jpg.rf.d8c029c9fa02f55759ce18bb60aacf6e.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1315037193-612x612_jpg.rf.61d2edd7722a6d72bc39286373d04c72.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1349368261-612x612_jpg.rf.a1d9a61bd2117405ffbe99cd2a00fd82.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-136258139-612x612-1-_jpg.rf.558b92f4d7b4ed34dd4f8c7250f395ac.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-154890047-612x612_jpg.rf.6323ee4ed2bb7a2d40416100f60d21e7.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-182443425-612x612_jpg.rf.312d7422094a7939836a97418d4b2b7c.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-184939063-612x612_jpg.rf.cd9431ad5d3337d8916e681b38d866ce.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-185042464-612x612_jpg.rf.e56d29adb4b019e7bea8234bef14ec6f.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-185090585-612x612_jpg.rf.d6e24be7e146e5c01b8f2e9ff7878229.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-187106600-612x612_jpg.rf.497dadbb057fbeeda3b93e0852688a8b.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-187560477-612x612_jpg.rf.13db5f12680f249be8f2332796df7904.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-187779602-612x612_jpg.rf.2c5239bffabc1bf78cfa794e650b70a3.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-3427790-612x612_jpg.rf.224ddea5385bfdb5b54fffd255a56ba9.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-470718928-612x612_jpg.rf.fe9685ec318fa9447878ea9dbc343675.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-515213481-612x612_jpg.rf.552fab995619b74caeb40fff8c292c63.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-518315773-612x612_jpg.rf.a4a66b4b613e5ba975c9d2e946dc12b3.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-520524414-612x612_jpg.rf.1863412962e3c8244cc0a14017608fba.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-525581196-612x612_jpg.rf.e4cbea596360d91fdea367d982901f35.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-89020519-612x612_jpg.rf.d1e4c842257484a27ccdbafe0cf74a10.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-894699700-612x612_jpg.rf.d5bc5efea261176ac3993ab46494e8c3.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-913690838-612x612_jpg.rf.35e5c9df2990db31f26399e09e1aef8e.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-927197382-612x612_jpg.rf.8f1e39676f5b969175246184ab6129a8.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-969597416-612x612_jpg.rf.bf182660152317b154e75d256df4009a.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-976101726-612x612_jpg.rf.843e2953adab74fe72ea864f462227ec.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-98039780-612x612_jpg.rf.79ab57fd26bea2ca7e468a878146f5ef.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+have-been-disposed-improper-improperly-around-dust-garbage-can-full-69655841_jpg.rf.c5818a3a98bb8738a14c397785a4427a.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+ibr-659769_jpg.rf.0639ec0e5f84c86d2c054f9f9b83ae80.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image15_jpeg.rf.cd1bcdf51e100acaf78fedc7d12a02de.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image17_jpeg.rf.aa0c7d130b4620374d6caf7dbc20ea8a.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image17_jpeg.rf.d975f988e865d288308e80040ffc31ea.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image19_jpeg.rf.c327c3632ea834aabc258c9eaced59d5.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image1_jpg.rf.e6a1193cfb3827999e907180120a0f64.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image27_jpeg.rf.d5c39e632c06e6a728bf8c484f8b9054.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image4_jpeg.rf.f705ee5709e3593c5734a90198600a5b.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image5_jpeg.rf.30e5fb4b79f82bba847d9ba7f33bd602.jpg,train,Open_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image5_jpeg.rf.a7024d3361ef7e6ad4c3850e42f61df7.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image6_jpeg.rf.c1c79e6a5eda8e613a4b91c4e510c97c.jpg,train,Close_empty; Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image8_jpeg.rf.e1b31ef442c454a76352508a48be42b4.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image9_jpeg.rf.aa30b511134d48e42f1cb3755660f119.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images-1-_jpg.rf.092ac73cb8ea592e1596d73b0b5a307b.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images-2-_jpg.rf.868820518a84e50eb2f5fd1728c43113.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images10_jpg.rf.3c3cf9ef4687144c49edba0ab6f2a847.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images12_jpg.rf.d6dba587e6adca7c6f4c2638be991593.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images29_jpg.rf.c62b60473c78e395b12f33917f896754.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images54_jpg.rf.f31a21cd2f9133b6f05ce6c63b02917d.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images_jpg.rf.044665e0054218eb18bf0e8cbc005dd2.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+IMG_20220404_201235_jpg.rf.5914f347fa79c7a9272ccb7d31700e84.jpg,train,Open_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+IMG_20251025_140815_jpg.rf.260029b908cc21e18cf8381ad756ea14.jpg,train,full,manual_visual_review,visual_qa,reports/suspicious_images.csv
+IMG_20251025_142330_jpg.rf.18dc09e28a4101077524748464a9ce6b.jpg,train,overflowing,manual_visual_review,visual_qa,reports/suspicious_images.csv
+istockphoto-1056636184-612x612_jpg.rf.1cab84702249422dd1e517f14605c899.jpg,train,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+plastic-garbage-bin-full-trash-260nw-1545178136_jpg.rf.aeeefe77aecfa54b332c2afbe8de3eee.jpg,train,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+trash_jpg.rf.6014bc164f77069aabb2a48060da6d1b.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+wheelie-bins-overflowing-with-household-rubbish-2HG5Y0K_jpg.rf.49365947bfeef2cf14431a2c501e5a0e.jpg,train,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+-24-11-2021-234721_jpg.rf.237ccdecf1b8419c7d5d82c755ca5c37.jpg,val,full,manual_visual_review,visual_qa,reports/suspicious_images.csv
+1030_jpg.rf.dc28a26495efba61cf22d540f8c0f2b4.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1077_jpg.rf.d129e7716f88fd49aa9e976e281d88c5.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+111_jpg.rf.9fd77b2744bd75e1d588ba9bdb165a71.jpg,val,Open_full,manual_visual_review,visual_qa,reports/suspicious_images.csv
+1148_jpg.rf.cb03dd6a75b3575daec71c1355234774.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1157_jpg.rf.2510e2e5d3dc1e823c0b5d931fee47a7.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1226_jpg.rf.85ac4094a4c8a608dc68d5ebe36f7bc6.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1254_jpg.rf.2ce7cdc0e73c6dad52563778f5448375.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1345_jpg.rf.7cbc200bffd05d19fb776e90a09b41ed.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1362_jpg.rf.6f8c1aec1c7840f83089e59e6cc7ceb5.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1483_jpg.rf.f3b7945760f70a5b523bf64b66cf3855.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+154_jpg.rf.277dba07b136905d4a20ee221447c6ab.jpg,val,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1708_jpg.rf.7e5d85af7ce1e7767e4adc55d0449694.jpg,val,Open_full,manual_visual_review,visual_qa,reports/suspicious_images.csv
+1743_jpg.rf.b07d8252b8478fb0f84c971f9e8cb602.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+174_jpg.rf.7397b2106cc271d300496da58994f23b.jpg,val,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1770_jpg.rf.32ddcbffe7848b08760987486cb6abb3.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1788_jpg.rf.eacc68279a8b8774df51ffff2118f950.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1841_jpg.rf.46b13e2b8f4f6af661985b7ee3f26f03.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+1899_jpg.rf.6ccd713e3a3308702720275459f04c0b.jpg,val,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+227_jpg.rf.fa6488e2b0883f4afba3922112a96644.jpg,val,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+3851-jpg_blur_jpg.rf.2e372bb4c55718819dd7294ada2e41c1.jpg,val,Open_empty,manual_visual_review,visual_qa,reports/suspicious_images.csv
+402_jpg.rf.6942121cab69d20bb76717d754fd7c46.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+55_jpg.rf.37c72c8712cd135e5c90f17bf6d469bf.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+624_jpg.rf.425407eb6596c88fd6a2430da3c7ec64.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+705_jpg.rf.826e96dc0ae21e157abd35f2508e5d7b.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+73_jpg.rf.4ef23ec95d56a88d170fc23cbda568c6.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+817_jpg.rf.c1bcd4f45299ad99074e5784f608292c.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+883_jpg.rf.e0a5069af09dd3d96495dd68db079cdc.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+8c1b5552-6799-11e5-8dc4-40f2e96c8ad8_jpg.rf.4fdc3d88c9f5f9bed82078f4ef6f8a5f.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+941_jpg.rf.ebc0dbccab5b7662dec0a6afd9e52664.jpg,val,Close_empty; Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+96_jpg.rf.31caf029f334900f2d6175aa73f8b74f.jpg,val,Close_empty; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+bukit-batok-trash-overflows_jpg.rf.cc0eb439b9eb18ed9850daa7ae17f526.jpg,val,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+d18d5e9c-6798-11e5-8dd0-40f2e96c8ad8_jpg.rf.8bce67c51b3f3167406837e56c019866.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+d855e19c-67a0-11e5-a5ed-40f2e96c8ad8_jpg.rf.02e298f8e2cc3e63a4187cfab82878c0.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+dc-Cover-q5rt4lmop9cckreusrkdbjbqt3-20210316101036-Medi_jpg.rf.8fcce6f62fe443b2dbda1ded48173b79.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-17_jpg.rf.d5102a5e64579eee0a4613d17cb0480e.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-1_jpg.rf.e7d897a8fd059037e9339c6a1682664c.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-24_jpg.rf.70355de9683328a04470d1bbee8109aa.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-32_jpg.rf.30c02f45c6644cc6b21a393e12b1933e.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-36_jpg.rf.8e20d7044495b9f83d827c87cd86463e.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-bins-overflow-260nw-677958319_jpg.rf.87af5c64ca6397ae9efde4c6cab6af13.jpg,val,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+garbage-pile-isolated-garbage-pile-isolated-white-background-125241956_jpg.rf.0e088d0d2727c7fffa3eee292e887392.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1180347668-612x612_jpg.rf.cad048c07beb5b869c0c92afee334e1a.jpg,val,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1230349822-612x612_jpg.rf.d10d0acb40e4958faed344ccf4700112.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1283166923-612x612_jpg.rf.dac9467abd9fd19ac6a4cb4c157e8d08.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-1308181252-612x612_jpg.rf.cf7f5ae06bba9fdb23ed5d4f1a0dfa38.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-135326396-612x612_jpg.rf.1660aaf14b6207aa64993ab1b3db6db3.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-155071313-612x612_jpg.rf.15b0a2b32399b4889b70166ebda4cd30.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-187777451-612x612_jpg.rf.e9dacdc6feb023f991378bcc149dbc3c.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-471550333-612x612_jpg.rf.72e108caba06db9c82379869edeba0a3.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-539339028-612x612_jpg.rf.600af5cf0158cecdf44f3700d4e30e80.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-645848306-612x612_jpg.rf.eb811388e3bb849c36d26ffab435a68d.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-680829812-612x612_jpg.rf.52541428d9a542345a0b6aaaa2738551.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-970659070-612x612_jpg.rf.804eb99ad08303a20cd6283433608fc7.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+gettyimages-976788630-612x612_jpg.rf.8e90b1b437bdd5b6d1351ba8b497eb6a.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image11_jpeg.rf.9e6b2aa826dfbcffd5adc40a7fb562f8.jpg,val,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+image18_jpeg.rf.cf8e638490108097fc95ad5d406e8ef1.jpg,val,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images21_jpg.rf.6902fc70a6660ff873722f59a8c675a1.jpg,val,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images32_jpg.rf.c18ccb232eb46a0af68a76edc7a6ee6a.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+images6_jpg.rf.185b13e5eff79e3992eb6e0c3bd8560a.jpg,val,Close_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+IMG-20251004-WA0024_jpg.rf.38b67ff683383898206bd0d64d04ba02.jpg,val,overflowing,manual_visual_review,visual_qa,reports/suspicious_images.csv
+istockphoto-959100790-1024x1024_jpg.rf.fb7199c99fb44de55c1722c18e9de56c.jpg,val,Open_full; Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow
+landfill-broken-objects-refugee-camp-garbage-dump-trash-162413542_jpg.rf.15e3267b04cdd7a00d7cb762f7ee98a7.jpg,val,Trash flow,irrelevant_waste_pile,semantic_class_filter,scripts/prepare_dataset.py: AMBIGUOUS includes trash_flow

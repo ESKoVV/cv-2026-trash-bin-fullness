@@ -1,0 +1,7 @@
+group_id,reference_split,reference_image,target_split,target_image,histogram_similarity,feature_matches,homography_inliers,inlier_ratio,confidence,transferred_boxes,applied_boxes,status
+scene-001,train,waste-bin-fill-level-detect2_train_000720_65bc03fc7b.jpg,train,waste-bin-fill-level-detect2_train_000719_43b5bc9681.jpg,0.9978,659,653,0.9909,0.9887,1,0,dry_run
+scene-002,train,garbage-can-overflow_train_000106_2166199331.jpg,train,garbage-can-overflow_train_000342_6137eb5261.jpg,0.9801,535,530,0.9907,0.971,2,0,dry_run
+scene-003,train,garbage-can-overflow_train_000189_27993b5df0.jpg,train,garbage-can-overflow_train_000227_aee49323f0.jpg,0.9847,274,262,0.9562,0.9416,21,0,dry_run
+scene-004,train,garbage-can-overflow_train_000253_2f3a646a4e.jpg,test,garbage-can-overflow_train_000283_ab5113129b.jpg,0.9726,90,83,0.9222,0.897,16,0,dry_run
+scene-005,train,garbage-can-overflow_train_000168_055fb75590.jpg,train,garbage-can-overflow_train_000069_6701e7592d.jpg,0.931,243,232,0.9547,0.8889,1,0,dry_run
+scene-006,train,garbage-can-overflow_train_000206_2630201d18.jpg,train,garbage-can-overflow_val_000480_82c07ec700.jpg,0.9213,149,140,0.9396,0.8657,22,0,dry_run

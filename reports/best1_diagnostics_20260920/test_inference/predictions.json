@@ -1,0 +1,2047 @@
+[
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_test_000550_f502639262.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          24.50000000000001,
+          135.25000000000003,
+          233.5,
+          490.75
+        ],
+        "normalized": [
+          0.2015625,
+          0.4890625,
+          0.3265625,
+          0.55546875
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          273.25,
+          261.5,
+          434.74999999999994,
+          518.5
+        ],
+        "normalized": [
+          0.553125,
+          0.609375,
+          0.25234375,
+          0.4015625
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.30249,
+          "bbox": [
+            30.92,
+            130.45,
+            232.26,
+            483.45
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.259338,
+          "bbox": [
+            30.72,
+            130.6,
+            231.06,
+            484.15
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.30249,
+          "bbox": [
+            30.92,
+            130.45,
+            232.26,
+            483.45
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.259338,
+          "bbox": [
+            30.72,
+            130.6,
+            231.06,
+            484.15
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.30249,
+          "bbox": [
+            30.92,
+            130.45,
+            232.26,
+            483.45
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.259338,
+          "bbox": [
+            30.72,
+            130.6,
+            231.06,
+            484.15
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_test_000650_f65ccb5936.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          0.0,
+          13.999999999999986,
+          640.0,
+          439.0
+        ],
+        "normalized": [
+          0.5,
+          0.35390625,
+          1.0,
+          0.6640625
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [],
+      "0.15": [],
+      "0.1": []
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_train_000099_cd9d8c2265.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          214.50000000000003,
+          96.00000000000001,
+          477.5,
+          396.0
+        ],
+        "normalized": [
+          0.540625,
+          0.384375,
+          0.4109375,
+          0.46875
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          113.75,
+          86.25,
+          312.25,
+          284.75
+        ],
+        "normalized": [
+          0.3328125,
+          0.28984375,
+          0.31015625,
+          0.31015625
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.7514,
+          "bbox": [
+            124.76,
+            79.92,
+            300.61,
+            287.68
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.316338,
+          "bbox": [
+            213.91,
+            98.72,
+            482.89,
+            409.29
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.275802,
+          "bbox": [
+            214.93,
+            94.93,
+            481.32,
+            411.61
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.7514,
+          "bbox": [
+            124.76,
+            79.92,
+            300.61,
+            287.68
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.316338,
+          "bbox": [
+            213.91,
+            98.72,
+            482.89,
+            409.29
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.275802,
+          "bbox": [
+            214.93,
+            94.93,
+            481.32,
+            411.61
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.7514,
+          "bbox": [
+            124.76,
+            79.92,
+            300.61,
+            287.68
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.316338,
+          "bbox": [
+            213.91,
+            98.72,
+            482.89,
+            409.29
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.275802,
+          "bbox": [
+            214.93,
+            94.93,
+            481.32,
+            411.61
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_train_000108_3efdb30f4e.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          43.75,
+          160.25000000000003,
+          239.25,
+          501.75
+        ],
+        "normalized": [
+          0.22109375,
+          0.5171875,
+          0.30546875,
+          0.53359375
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          252.0,
+          259.25,
+          403.0,
+          511.75
+        ],
+        "normalized": [
+          0.51171875,
+          0.60234375,
+          0.2359375,
+          0.39453125
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.325405,
+          "bbox": [
+            253.76,
+            251.39,
+            408.95,
+            514.24
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.325405,
+          "bbox": [
+            253.76,
+            251.39,
+            408.95,
+            514.24
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.325405,
+          "bbox": [
+            253.76,
+            251.39,
+            408.95,
+            514.24
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_train_000218_a609b4d672.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 2,
+        "class_name": "full",
+        "bbox": [
+          95.25,
+          6.750000000000007,
+          339.75,
+          499.25
+        ],
+        "normalized": [
+          0.33984375,
+          0.3953125,
+          0.38203125,
+          0.76953125
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 2,
+        "class_name": "full",
+        "bbox": [
+          308.5,
+          140.00000000000003,
+          477.5,
+          514.0
+        ],
+        "normalized": [
+          0.6140625,
+          0.5109375,
+          0.2640625,
+          0.584375
+        ],
+        "line": 2
+      },
+      {
+        "class_id": 2,
+        "class_name": "full",
+        "bbox": [
+          436.0,
+          253.49999999999997,
+          553.0,
+          524.5
+        ],
+        "normalized": [
+          0.77265625,
+          0.6078125,
+          0.1828125,
+          0.4234375
+        ],
+        "line": 3
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.861821,
+          "bbox": [
+            312.35,
+            139.37,
+            475.58,
+            514.27
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.844632,
+          "bbox": [
+            443.94,
+            256.71,
+            551.27,
+            534.88
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.521101,
+          "bbox": [
+            100.25,
+            26.16,
+            335.48,
+            479.76
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.308929,
+          "bbox": [
+            425.45,
+            9.37,
+            530.34,
+            284.12
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.861821,
+          "bbox": [
+            312.35,
+            139.37,
+            475.58,
+            514.27
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.844632,
+          "bbox": [
+            443.94,
+            256.71,
+            551.27,
+            534.88
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.521101,
+          "bbox": [
+            100.25,
+            26.16,
+            335.48,
+            479.76
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.308929,
+          "bbox": [
+            425.45,
+            9.37,
+            530.34,
+            284.12
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.861821,
+          "bbox": [
+            312.35,
+            139.37,
+            475.58,
+            514.27
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.844632,
+          "bbox": [
+            443.94,
+            256.71,
+            551.27,
+            534.88
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.521101,
+          "bbox": [
+            100.25,
+            26.16,
+            335.48,
+            479.76
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.308929,
+          "bbox": [
+            425.45,
+            9.37,
+            530.34,
+            284.12
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_train_000228_3ce1bf1264.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          59.75,
+          141.50000000000003,
+          252.25,
+          507.5
+        ],
+        "normalized": [
+          0.24375,
+          0.50703125,
+          0.30078125,
+          0.571875
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          242.25,
+          267.75,
+          409.75,
+          515.25
+        ],
+        "normalized": [
+          0.509375,
+          0.61171875,
+          0.26171875,
+          0.38671875
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.642657,
+          "bbox": [
+            245.66,
+            273.12,
+            410.65,
+            511.71
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.534915,
+          "bbox": [
+            60.65,
+            155.13,
+            248.55,
+            500.86
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.642657,
+          "bbox": [
+            245.66,
+            273.12,
+            410.65,
+            511.71
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.534915,
+          "bbox": [
+            60.65,
+            155.13,
+            248.55,
+            500.86
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.642657,
+          "bbox": [
+            245.66,
+            273.12,
+            410.65,
+            511.71
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.534915,
+          "bbox": [
+            60.65,
+            155.13,
+            248.55,
+            500.86
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_train_000350_ef7d8d01d5.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          183.25,
+          353.25,
+          361.75,
+          551.75
+        ],
+        "normalized": [
+          0.42578125,
+          0.70703125,
+          0.27890625,
+          0.31015625
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.606973,
+          "bbox": [
+            190.3,
+            355.13,
+            357.05,
+            536.31
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.606973,
+          "bbox": [
+            190.3,
+            355.13,
+            357.05,
+            536.31
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.606973,
+          "bbox": [
+            190.3,
+            355.13,
+            357.05,
+            536.31
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_train_000360_d3e0798684.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          256.0,
+          400.99999999999994,
+          494.0,
+          640.0
+        ],
+        "normalized": [
+          0.5859375,
+          0.81328125,
+          0.371875,
+          0.3734375
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          103.99999999999999,
+          330.5,
+          290.0,
+          544.5
+        ],
+        "normalized": [
+          0.3078125,
+          0.68359375,
+          0.290625,
+          0.334375
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.667854,
+          "bbox": [
+            110.05,
+            330.95,
+            277.34,
+            546.21
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.344221,
+          "bbox": [
+            254.73,
+            409.01,
+            483.7,
+            639.47
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.667854,
+          "bbox": [
+            110.05,
+            330.95,
+            277.34,
+            546.21
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.344221,
+          "bbox": [
+            254.73,
+            409.01,
+            483.7,
+            639.47
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.667854,
+          "bbox": [
+            110.05,
+            330.95,
+            277.34,
+            546.21
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.344221,
+          "bbox": [
+            254.73,
+            409.01,
+            483.7,
+            639.47
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_train_000402_97e6e97da3.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 2,
+        "class_name": "full",
+        "bbox": [
+          63.49999999999998,
+          0.2500000000000213,
+          274.5,
+          341.75
+        ],
+        "normalized": [
+          0.2640625,
+          0.2671875,
+          0.3296875,
+          0.53359375
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 2,
+        "class_name": "full",
+        "bbox": [
+          227.75,
+          47.75,
+          400.25,
+          363.25
+        ],
+        "normalized": [
+          0.490625,
+          0.32109375,
+          0.26953125,
+          0.49296875
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.841399,
+          "bbox": [
+            234.2,
+            63.28,
+            363.87,
+            350.43
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.727268,
+          "bbox": [
+            65.09,
+            8.51,
+            176.35,
+            321.07
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.474647,
+          "bbox": [
+            326.74,
+            120.7,
+            417.88,
+            297.25
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.318249,
+          "bbox": [
+            164.22,
+            48.63,
+            270.23,
+            335.66
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.841399,
+          "bbox": [
+            234.2,
+            63.28,
+            363.87,
+            350.43
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.727268,
+          "bbox": [
+            65.09,
+            8.51,
+            176.35,
+            321.07
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.474647,
+          "bbox": [
+            326.74,
+            120.7,
+            417.88,
+            297.25
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.318249,
+          "bbox": [
+            164.22,
+            48.63,
+            270.23,
+            335.66
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.841399,
+          "bbox": [
+            234.2,
+            63.28,
+            363.87,
+            350.43
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.727268,
+          "bbox": [
+            65.09,
+            8.51,
+            176.35,
+            321.07
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.474647,
+          "bbox": [
+            326.74,
+            120.7,
+            417.88,
+            297.25
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.318249,
+          "bbox": [
+            164.22,
+            48.63,
+            270.23,
+            335.66
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_train_000411_a36e99961f.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          22.5,
+          147.75,
+          248.5,
+          523.25
+        ],
+        "normalized": [
+          0.21171875,
+          0.52421875,
+          0.353125,
+          0.58671875
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          242.50000000000003,
+          244.75,
+          411.50000000000006,
+          537.25
+        ],
+        "normalized": [
+          0.5109375,
+          0.6109375,
+          0.2640625,
+          0.45703125
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.198043,
+          "bbox": [
+            245.57,
+            249.36,
+            404.27,
+            520.43
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.198043,
+          "bbox": [
+            245.57,
+            249.36,
+            404.27,
+            520.43
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_val_000485_11abfa725d.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          62.5,
+          142.25,
+          262.5,
+          506.75000000000006
+        ],
+        "normalized": [
+          0.25390625,
+          0.50703125,
+          0.3125,
+          0.56953125
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.686701,
+          "bbox": [
+            55.52,
+            160.75,
+            252.73,
+            509.01
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.686701,
+          "bbox": [
+            55.52,
+            160.75,
+            252.73,
+            509.01
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.686701,
+          "bbox": [
+            55.52,
+            160.75,
+            252.73,
+            509.01
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/garbage-can-overflow_val_000507_044dfbcb34.jpg",
+    "width": 640,
+    "height": 640,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          329.25,
+          354.75,
+          550.75,
+          639.25
+        ],
+        "normalized": [
+          0.6875,
+          0.7765625,
+          0.34609375,
+          0.44453125
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.720928,
+          "bbox": [
+            336.03,
+            349.98,
+            555.29,
+            639.41
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.720928,
+          "bbox": [
+            336.03,
+            349.98,
+            555.29,
+            639.41
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.720928,
+          "bbox": [
+            336.03,
+            349.98,
+            555.29,
+            639.41
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/waste-bin-fill-level-detect2_test_000881_4aee80ab1e.jpg",
+    "width": 2448,
+    "height": 3264,
+    "ground_truth": [
+      {
+        "class_id": 1,
+        "class_name": "partial",
+        "bbox": [
+          39.99999999999999,
+          242.00000000000006,
+          2448.0,
+          2943.9999999999995
+        ],
+        "normalized": [
+          0.5081699346405228,
+          0.4880514705882353,
+          0.9836601307189542,
+          0.8278186274509803
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [],
+      "0.15": [],
+      "0.1": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.147175,
+          "bbox": [
+            637.76,
+            1154.39,
+            937.45,
+            1414.12
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/waste-bin-fill-level-detect2_train_000693_1ffb02523e.jpg",
+    "width": 810,
+    "height": 1080,
+    "ground_truth": [
+      {
+        "class_id": 2,
+        "class_name": "full",
+        "bbox": [
+          168.65500000000003,
+          119.00000000000004,
+          666.745,
+          685.0
+        ],
+        "normalized": [
+          0.515679012345679,
+          0.37222222222222223,
+          0.6149259259259259,
+          0.524074074074074
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.530656,
+          "bbox": [
+            119.32,
+            969.29,
+            270.23,
+            1080.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.464824,
+          "bbox": [
+            455.02,
+            295.18,
+            607.13,
+            505.93
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.37257,
+          "bbox": [
+            286.79,
+            945.04,
+            413.01,
+            1080.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.302769,
+          "bbox": [
+            222.12,
+            443.79,
+            371.33,
+            650.16
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.286398,
+          "bbox": [
+            209.64,
+            641.34,
+            351.65,
+            707.16
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.530656,
+          "bbox": [
+            119.32,
+            969.29,
+            270.23,
+            1080.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.464824,
+          "bbox": [
+            455.02,
+            295.18,
+            607.13,
+            505.93
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.37257,
+          "bbox": [
+            286.79,
+            945.04,
+            413.01,
+            1080.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.302769,
+          "bbox": [
+            222.12,
+            443.79,
+            371.33,
+            650.16
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.286398,
+          "bbox": [
+            209.64,
+            641.34,
+            351.65,
+            707.16
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.244361,
+          "bbox": [
+            218.93,
+            282.25,
+            389.57,
+            459.22
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.232964,
+          "bbox": [
+            622.04,
+            957.06,
+            698.26,
+            1078.24
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.530656,
+          "bbox": [
+            119.32,
+            969.29,
+            270.23,
+            1080.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.464824,
+          "bbox": [
+            455.02,
+            295.18,
+            607.13,
+            505.93
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.37257,
+          "bbox": [
+            286.79,
+            945.04,
+            413.01,
+            1080.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.302769,
+          "bbox": [
+            222.12,
+            443.79,
+            371.33,
+            650.16
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.286398,
+          "bbox": [
+            209.64,
+            641.34,
+            351.65,
+            707.16
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.244361,
+          "bbox": [
+            218.93,
+            282.25,
+            389.57,
+            459.22
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.232964,
+          "bbox": [
+            622.04,
+            957.06,
+            698.26,
+            1078.24
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.128804,
+          "bbox": [
+            716.56,
+            960.31,
+            807.59,
+            1079.18
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.112023,
+          "bbox": [
+            260.59,
+            1043.01,
+            425.3,
+            1080.0
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/waste-bin-fill-level-detect2_train_000716_47d372f184.jpg",
+    "width": 2448,
+    "height": 3264,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          0.0,
+          462.00000000000017,
+          2448.0,
+          3264.0
+        ],
+        "normalized": [
+          0.5,
+          0.5707720588235294,
+          1.0,
+          0.8584558823529411
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [],
+      "0.15": [],
+      "0.1": []
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/waste-bin-fill-level-detect2_train_000737_c6ce6ea4dc.jpg",
+    "width": 2448,
+    "height": 3264,
+    "ground_truth": [
+      {
+        "class_id": 2,
+        "class_name": "full",
+        "bbox": [
+          0.00500000000004075,
+          690.0,
+          1675.735,
+          2066.02
+        ],
+        "normalized": [
+          0.3422671568627451,
+          0.4221844362745098,
+          0.6845302287581699,
+          0.4215747549019608
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 2,
+        "class_name": "full",
+        "bbox": [
+          39.99999999999999,
+          2084.9999999999995,
+          1762.38,
+          3264.0
+        ],
+        "normalized": [
+          0.36813316993464057,
+          0.8193933823529411,
+          0.7035866013071896,
+          0.36121323529411764
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [],
+      "0.15": [],
+      "0.1": []
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/waste-bin-fill-level-detect2_train_000746_128d624b7a.jpg",
+    "width": 2448,
+    "height": 3264,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          1040.0,
+          1198.365,
+          2448.0,
+          2512.8749999999995
+        ],
+        "normalized": [
+          0.7124183006535948,
+          0.5685110294117647,
+          0.5751633986928104,
+          0.4027297794117647
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 1,
+        "class_name": "partial",
+        "bbox": [
+          960.0,
+          0.0,
+          2068.98,
+          605.4
+        ],
+        "normalized": [
+          0.6186642156862745,
+          0.09273897058823528,
+          0.45301470588235293,
+          0.18547794117647057
+        ],
+        "line": 2
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.502194,
+          "bbox": [
+            980.48,
+            0.0,
+            2067.7,
+            636.89
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.25508,
+          "bbox": [
+            519.62,
+            1247.07,
+            1116.54,
+            1752.53
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.502194,
+          "bbox": [
+            980.48,
+            0.0,
+            2067.7,
+            636.89
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.25508,
+          "bbox": [
+            519.62,
+            1247.07,
+            1116.54,
+            1752.53
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.502194,
+          "bbox": [
+            980.48,
+            0.0,
+            2067.7,
+            636.89
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.25508,
+          "bbox": [
+            519.62,
+            1247.07,
+            1116.54,
+            1752.53
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/waste-bin-fill-level-detect2_train_000803_4359866dc4.jpg",
+    "width": 2448,
+    "height": 3264,
+    "ground_truth": [
+      {
+        "class_id": 3,
+        "class_name": "overflow",
+        "bbox": [
+          0.04499999999995907,
+          1138.5600000000002,
+          1251.695,
+          2098.22
+        ],
+        "normalized": [
+          0.2556658496732026,
+          0.49583026960784315,
+          0.5112949346405229,
+          0.29401348039215686
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.32334,
+          "bbox": [
+            334.8,
+            2987.82,
+            834.19,
+            3264.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.251693,
+          "bbox": [
+            1194.3,
+            3082.07,
+            1921.65,
+            3264.0
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.32334,
+          "bbox": [
+            334.8,
+            2987.82,
+            834.19,
+            3264.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.251693,
+          "bbox": [
+            1194.3,
+            3082.07,
+            1921.65,
+            3264.0
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.32334,
+          "bbox": [
+            334.8,
+            2987.82,
+            834.19,
+            3264.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.251693,
+          "bbox": [
+            1194.3,
+            3082.07,
+            1921.65,
+            3264.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.136642,
+          "bbox": [
+            983.71,
+            1268.79,
+            1245.29,
+            2003.57
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/waste-bin-fill-level-detect2_val_000831_0aa06c1d40.jpg",
+    "width": 810,
+    "height": 1080,
+    "ground_truth": [
+      {
+        "class_id": 0,
+        "class_name": "empty",
+        "bbox": [
+          30.0,
+          100.00000000000003,
+          810.0,
+          1057.5
+        ],
+        "normalized": [
+          0.5185185185185185,
+          0.5358796296296297,
+          0.9629629629629629,
+          0.8865740740740741
+        ],
+        "line": 1
+      }
+    ],
+    "predictions": {
+      "0.25": [],
+      "0.15": [],
+      "0.1": []
+    }
+  },
+  {
+    "image": "/tmp/best1-diagnostic-server-20260920/images/waste-bin-fill-level-detect2_val_000852_79389e8ec8.jpg",
+    "width": 2448,
+    "height": 3264,
+    "ground_truth": [
+      {
+        "class_id": 3,
+        "class_name": "overflow",
+        "bbox": [
+          592.7350000000001,
+          1179.15,
+          1097.745,
+          1392.77
+        ],
+        "normalized": [
+          0.3452777777777778,
+          0.3939828431372549,
+          0.20629493464052287,
+          0.06544730392156863
+        ],
+        "line": 1
+      },
+      {
+        "class_id": 3,
+        "class_name": "overflow",
+        "bbox": [
+          1011.6,
+          1183.06,
+          1521.46,
+          1440.5799999999997
+        ],
+        "normalized": [
+          0.5173733660130719,
+          0.4019056372549019,
+          0.2082761437908497,
+          0.0788970588235294
+        ],
+        "line": 2
+      },
+      {
+        "class_id": 3,
+        "class_name": "overflow",
+        "bbox": [
+          1420.585,
+          1086.41,
+          1832.4550000000002,
+          1340.05
+        ],
+        "normalized": [
+          0.6644281045751634,
+          0.3717003676470588,
+          0.16824754901960784,
+          0.07770833333333332
+        ],
+        "line": 3
+      }
+    ],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.331351,
+          "bbox": [
+            1106.44,
+            1178.23,
+            1431.11,
+            1435.59
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.281086,
+          "bbox": [
+            694.76,
+            1820.89,
+            982.04,
+            2165.65
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.331351,
+          "bbox": [
+            1106.44,
+            1178.23,
+            1431.11,
+            1435.59
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.281086,
+          "bbox": [
+            694.76,
+            1820.89,
+            982.04,
+            2165.65
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.239733,
+          "bbox": [
+            685.02,
+            1156.83,
+            1122.62,
+            1405.64
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.331351,
+          "bbox": [
+            1106.44,
+            1178.23,
+            1431.11,
+            1435.59
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.281086,
+          "bbox": [
+            694.76,
+            1820.89,
+            982.04,
+            2165.65
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.239733,
+          "bbox": [
+            685.02,
+            1156.83,
+            1122.62,
+            1405.64
+          ]
+        },
+        {
+          "class_id": 3,
+          "class_name": "overflow",
+          "confidence": 0.119186,
+          "bbox": [
+            1484.09,
+            1105.85,
+            1775.06,
+            1331.28
+          ]
+        }
+      ]
+    }
+  }
+]

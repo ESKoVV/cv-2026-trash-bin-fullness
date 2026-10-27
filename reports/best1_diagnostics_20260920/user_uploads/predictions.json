@@ -1,0 +1,138 @@
+[
+  {
+    "image": "/tmp/best1-user-uploads-20260920/876102a595024421b53d6c170eeb80d8.jpg",
+    "width": 548,
+    "height": 364,
+    "ground_truth": [],
+    "predictions": {
+      "0.25": [],
+      "0.15": [],
+      "0.1": [
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.126379,
+          "bbox": [
+            443.5,
+            168.66,
+            496.95,
+            230.97
+          ]
+        },
+        {
+          "class_id": 2,
+          "class_name": "full",
+          "confidence": 0.122237,
+          "bbox": [
+            256.87,
+            113.87,
+            354.5,
+            206.28
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-user-uploads-20260920/a8ad9aa5d1644a1dab85875237e34d31.jpg",
+    "width": 1200,
+    "height": 802,
+    "ground_truth": [],
+    "predictions": {
+      "0.25": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.325636,
+          "bbox": [
+            312.44,
+            204.62,
+            507.05,
+            336.56
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.260597,
+          "bbox": [
+            584.96,
+            174.47,
+            722.82,
+            290.04
+          ]
+        }
+      ],
+      "0.15": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.325636,
+          "bbox": [
+            312.44,
+            204.62,
+            507.05,
+            336.56
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.260597,
+          "bbox": [
+            584.96,
+            174.47,
+            722.82,
+            290.04
+          ]
+        }
+      ],
+      "0.1": [
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.325636,
+          "bbox": [
+            312.44,
+            204.62,
+            507.05,
+            336.56
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.260597,
+          "bbox": [
+            584.96,
+            174.47,
+            722.82,
+            290.04
+          ]
+        },
+        {
+          "class_id": 0,
+          "class_name": "empty",
+          "confidence": 0.124147,
+          "bbox": [
+            121.8,
+            214.24,
+            279.83,
+            275.99
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "image": "/tmp/best1-user-uploads-20260920/e3d3c44e215b4e7d9deb6c5213200b4d.jpg",
+    "width": 561,
+    "height": 547,
+    "ground_truth": [],
+    "predictions": {
+      "0.25": [],
+      "0.15": [],
+      "0.1": []
+    }
+  }
+]

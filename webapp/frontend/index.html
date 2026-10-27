@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Распознавание мусорных контейнеров на фотографии.">
+    <title>Нейромусор — распознавание контейнеров</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <h1>Нейромусор</h1>
+      </header>
+
+      <section class="panel workspace" aria-label="Распознавание изображения">
+        <div id="error" class="notice error" role="alert" hidden></div>
+        <div id="status" class="notice" role="status" hidden></div>
+
+        <div class="controls-grid">
+          <label class="field model-field"><select id="model" disabled aria-label="Выбор модели"><option>Загрузка моделей…</option></select></label>
+          <label class="field"><span>Уверенность <b id="confidence-value">0.05</b></span><input id="confidence" type="range" min="0.01" max="0.99" step="0.01" value="0.05"></label>
+          <label class="field"><span>Удаление повторных рамок <b id="iou-value">0.15</b></span><input id="iou" type="range" min="0.01" max="0.99" step="0.01" value="0.15"></label>
+        </div>
+
+        <label id="drop-zone" class="drop-zone" for="image">
+          <input id="image" type="file" accept="image/jpeg,image/png,image/webp" hidden>
+          <span class="drop-icon">↑</span><strong>Загрузите фотографию</strong>
+        </label>
+        <div id="file-info" class="file-info" hidden></div>
+        <button id="predict" class="primary" type="button" disabled>Распознать</button>
+      </section>
+
+      <section id="result" class="panel" hidden aria-live="polite">
+        <div class="result-top"><a id="download" class="secondary" href="#">Скачать результат</a></div>
+        <div class="image-grid"><figure><img id="original" alt="Исходная фотография"></figure><figure><img id="processed" alt="Фотография с результатами распознавания"></figure></div>
+      </section>
+    </main>
+    <script src="/app.js" defer></script>
+  </body>
+</html>
